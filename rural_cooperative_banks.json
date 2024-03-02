@@ -1,0 +1,2335 @@
+[
+ {
+  "bank_name": "Institution",
+  "type": "Type",
+  "address": "Address & No. of Offices",
+  "contact": "Contact No. | Fax"
+ },
+ {
+  "bank_name": "Advance Credit Bank (A Rural Bank) Corp.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Stop Over Commercial Complex, Mac Arthur Highway (Namkwang Road) corner Gerona-Pura Road, Brgy. Abagon, Gerona, TarlacNo. of Offices: 9",
+  "contact": "(045) 931-3751(+63) 956-614-7330Fax: (045) 920-3541"
+ },
+ {
+  "bank_name": "Agribusiness Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Solano, Nueva VizcayaNo. of Offices: 32",
+  "contact": "(078) 634-5512; 942-2474 (Pasig Office)Fax: (078) 326-5926"
+ },
+ {
+  "bank_name": "Agricultural Bank of the Philippines, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "121 Don Placido Campos Avenue, Dasmariñas, 4114 CaviteNo. of Offices: 2",
+  "contact": "(046) 416-3988Fax: (046) 416-0118"
+ },
+ {
+  "bank_name": "Aliaga Farmers Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "General Luna St., Poblacion West III, Aliaga, Nueva Ecija 3111No. of Offices: 3",
+  "contact": "(044) 958-5020; 958-5021"
+ },
+ {
+  "bank_name": "Anilao Bank (Rural Bank of Anilao (Iloilo), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "T. Magbanua St., Pototan, IloiloNo. of Offices: 2",
+  "contact": "(033) 362-0444; 336-5490; 357-1279Fax: (033) 362-0444"
+ },
+ {
+  "bank_name": "ARDCIBank, Inc., A Rural Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "G\/F ARDCI Corporate Building, San Roque, Virac, CatanduanesNo. of Offices: 2",
+  "contact": "(052) 811-4061; 09088201790"
+ },
+ {
+  "bank_name": "ASENSO Rural Bank of Bautista, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion East, Bautista, Pangasinan 2424No. of Offices: 1",
+  "contact": "0917-8171822"
+ },
+ {
+  "bank_name": "Aspac Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Aspac Bank Building, Mc Briones Highway Corner Gen Ricarte Street, Guizo Mandaue City, CebuNo. of Offices: 12",
+  "contact": "(032) 340-5752 to 53 \/ (032) 340-5748 to 49Fax: (032) 344-3509"
+ },
+ {
+  "bank_name": "Aurorabank (A Rural Bank), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rizal St., Brgy. 5, Poblacion, Baler, AuroraNo. of Offices: 2",
+  "contact": "0919 990 9193(042) 724-0095"
+ },
+ {
+  "bank_name": "Baclaran Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "83 Redemptorist Rd., Baclaran, Parañaque CityNo. of Offices: 1",
+  "contact": "(02) 832-0009Fax: (02) 831-9179"
+ },
+ {
+  "bank_name": "Balanga Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Don Manuel Banzon Ave., Doña Francisca Subdivision, Balanga City, BataanNo. of Offices: 4",
+  "contact": "(047) 237-3360 \/ (047) 237-2651Fax: (047) 237-2820"
+ },
+ {
+  "bank_name": "Baliuag Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Benigno S. Aquino Avenue, Poblacion, Baliaug, 3006 BulacanNo. of Offices: 1",
+  "contact": "(044) 766-2323Fax: (044) 766-2123"
+ },
+ {
+  "bank_name": "Banco Abucay, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Barangay Bagong Daan, Calaylayan, Abucay, BataanNo. of Offices: 2",
+  "contact": "(047) 244-4145; 237-1603Fax: (047) 244-4232"
+ },
+ {
+  "bank_name": "Banco Alabang, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Ground Floor, Minerva Building, National Road, Putatan, MuntinlupaNo. of Offices: 5",
+  "contact": "(+63) 9175690561(02) 8862-5810Fax: (02) 862-0043"
+ },
+ {
+  "bank_name": "Banco Bakun, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Antamok Tram, Ucab, Itogon, BenguetNo. of Offices: 6",
+  "contact": "(074) 426-8823; (0939) 918-7079; (0918) 911-7985Fax: (074) 442-3067"
+ },
+ {
+  "bank_name": "Banco Cooperativa De Zamboanga",
+  "type": "Rural & Cooperative Banks",
+  "address": "MCLL Highway corner Veterans Avenue, Sta. Cruz, Zamboanga CityNo. of Offices: 1",
+  "contact": "(062) 990-2839Fax: (062) 991-1204"
+ },
+ {
+  "bank_name": "Banco De Calamba, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Corner F. Mercado and Burgos Sts., Brgy. 6. Calamba City, LagunaNo. of Offices: 4",
+  "contact": "(049) 508-0256Fax: (049) 304-4101"
+ },
+ {
+  "bank_name": "Banco de Mindoro, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "M. Adriatico Corner Paras St., Barangay Ibaba East, Calapan, Oriental MindoroNo. of Offices: 1",
+  "contact": "(043) 288-4422Fax: (043) 288-4695"
+ },
+ {
+  "bank_name": "Banco Mexico, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "GSO National Road, Parian, Mexico, PampangaNo. of Offices: 3",
+  "contact": "(045) 875-1392; 961-1882; 966-0730Fax: (045) 966-0730"
+ },
+ {
+  "bank_name": "Banco Rural De Isla Cordova (Cebu), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Ground Floor, CTPI Building, San Miguel, Cordova CebuNo. of Offices: 1",
+  "contact": "(032) 260-4060"
+ },
+ {
+  "bank_name": "Banco San Vicente, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "San Vicente, Camarines NorteNo. of Offices: 4",
+  "contact": "(054) 447-3020; 440-1432Fax: (054) 440-1432"
+ },
+ {
+  "bank_name": "Banco Santiago De Libon, Inc., (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "San Francisco St., Libon, AlbayNo. of Offices: 12",
+  "contact": "(052)-486-6828 and (052) 486-6064Fax: (052) 485-6339"
+ },
+ {
+  "bank_name": "Banco Sual (A Rural Bank), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Sual, PangasinanNo. of Offices: 3",
+  "contact": "(075) 633-0417Fax: (075) 633-0417"
+ },
+ {
+  "bank_name": "Bangko Kaisa, Inc. (Formerly: Rural Bank of Bugasong (Antique), Inc.)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Bonifacio St., Pojo, Bugasong, Antique 5704No. of Offices: 1",
+  "contact": "(0921) 487-5861; 0917-5754321; 0926-9065189"
+ },
+ {
+  "bank_name": "Bangko Mabuhay (A Rural Bank), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Bangko Mabuhay Building, A. Soriano Highway, Brgy. Daang Amaya III, Tanza, 4108 CaviteNo. of Offices: 12",
+  "contact": "(046) 489-2010 to 2013Fax: (046) 437-8141"
+ },
+ {
+  "bank_name": "Bangko Magsaysay (Isabela), Inc. - A Rural Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "Brgy. Magsaysay, Poblacion, Saguday, Quirino 3401No. of Offices: 3",
+  "contact": "(078) 376-0484; (0920) 901-5246"
+ },
+ {
+  "bank_name": "Bangko Montañosa, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Provincial Road, Barangay Bulanao, Tabuk City, 3800 KalingaNo. of Offices: 5",
+  "contact": "(074) 624 04130905 999 1211"
+ },
+ {
+  "bank_name": "Bangko ng Kabuhayan, (A Rural Bank) Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Unit A, GF, Rayle Bldg. 52 Dr. Sixto Antonio, Kapasigan, Pasig City 1600No. of Offices: 3",
+  "contact": "(02) 643-4383; 643-4381Fax: (02) 641-0217"
+ },
+ {
+  "bank_name": "Bangko Nuestra Senora Del Pilar, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "BNSDP Building, MacArthur Highway, San Agustin, San Simon, PampangaNo. of Offices: 4",
+  "contact": "(045) 878-1205; (045) 436-1691Fax: (045) 878-1205"
+ },
+ {
+  "bank_name": "Bangko Pasig (Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Unit 510 Prestige Tower Office Condominium Bldg., F. Ortigas Jr. Road, Brgy. San Antonio, Ortigas Center, Pasig CityNo. of Offices: 2",
+  "contact": "(02) 632-1431\/1445; (02) 906-4019Fax: (02) 632-1428"
+ },
+ {
+  "bank_name": "Bangko Rural ng San Teodoro, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "VCBG Building Poblacion, San Teodoro, Oriental MindoroNo. of Offices: 1",
+  "contact": "0917-5106053"
+ },
+ {
+  "bank_name": "Bank of Hope, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Purok 5, Looc Proper, 7209 Plaridel, Misamis OccidentalNo. of Offices: 1",
+  "contact": "(088) 831-7344"
+ },
+ {
+  "bank_name": "Bank of Ormoc, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Mabini St., Ormoc City, 6541 LeyteNo. of Offices: 3",
+  "contact": "(053) 255-4659 (0917) 503-9840Fax: (053) 561-3754"
+ },
+ {
+  "bank_name": "Banko Zambaleño Inc., (BZI) (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Candelaria, ZambalesNo. of Offices: 3",
+  "contact": "(0917) 564-9583Fax: (047) 821-1092"
+ },
+ {
+  "bank_name": "Bankways, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Bankways Building, Gov. M. Cuenco, Sitio Baca Banilad, Cebu City 6000 CebuNo. of Offices: 14",
+  "contact": "(032) 272-7161"
+ },
+ {
+  "bank_name": "Bannawag Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Camilio Osias Street, Balaoan, La UnionNo. of Offices: 2",
+  "contact": "(072) 607-0195; 0917-848-8075Fax: (072) 794-2175"
+ },
+ {
+  "bank_name": "Batangas Rural Bank for Cooperatives, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Pastor Ave., New Public Market, Cuta, Batangas CityNo. of Offices: 1",
+  "contact": "(043) 723-1715; 723-3124Fax: (043) 980-5563"
+ },
+ {
+  "bank_name": "Bayanihan Bank, Inc",
+  "type": "Rural & Cooperative Banks",
+  "address": "111 Quezon St., Atimonan, Quezon 4331No. of Offices: 23",
+  "contact": "(042) 717-1246"
+ },
+ {
+  "bank_name": "Baybank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Baganga, Davao Oriental 8204No. of Offices: 5",
+  "contact": "(087) 976-0001Fax: None"
+ },
+ {
+  "bank_name": "BDO Network Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "ONB Center, Km. 9, Sasa, Davao City 8000No. of Offices: 509",
+  "contact": "(082) 233-7703; 233-7701Fax: (082) 233-7715"
+ },
+ {
+  "bank_name": "Benguet Center Bank, Inc. A Rural Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Sablan, Benguet 2614No. of Offices: 4",
+  "contact": "(074) 422-2179Fax: (074) 422-3931"
+ },
+ {
+  "bank_name": "BHF Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Mayombo District, Dagupan City, Pangasinan 2400No. of Offices: 8",
+  "contact": "(075) 522-9079Fax: (075) 522-2852"
+ },
+ {
+  "bank_name": "BINHI Rural Bank, Inc. (Formerly: Rural Bank of Balingasag (Misamis Oriental), Inc.)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Leope Building, Claro M. Recto Avenue, Brgy. 25, Cagayan De Oro City, Misamis Oriental 9000No. of Offices: 12",
+  "contact": "(088) 333-2268"
+ },
+ {
+  "bank_name": "Biñan Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "M. Manabat St., Brgy. San Antonio, Biñan, LagunaNo. of Offices: 6",
+  "contact": "(049) 511-8321Fax: (02) 520-6732"
+ },
+ {
+  "bank_name": "BOF, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "BOF Corporate Center, Jose Abad Santos Avenue, San Jose, City of San Fernando, Pampanga 2000, PhilippinesNo. of Offices: 23",
+  "contact": "(045) 963-5288 to 90Fax: (045) 961-7079"
+ },
+ {
+  "bank_name": "Bolbok Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "002 Mojica Street, Poblacion, 4226 San Juan, BatangasNo. of Offices: 1",
+  "contact": "(043) 575-3222; (043) 740-6090; (0917) 807-1579Fax: (043) 420-0027"
+ },
+ {
+  "bank_name": "Bridgeway Rural Banking Corporation",
+  "type": "Rural & Cooperative Banks",
+  "address": "Botolan Agora Complex, Batonlapoc, Botolan, 2202 ZambalesNo. of Offices: 2",
+  "contact": "(047) 810-2072"
+ },
+ {
+  "bank_name": "Bukidnon Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Kalilangan, BukidnonNo. of Offices: 5",
+  "contact": "(088) 356-1701; 0918-7424847"
+ },
+ {
+  "bank_name": "Butuan City Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "A. D. Curato St., Butuan City, Agusan del NorteNo. of Offices: 1",
+  "contact": "(085) 341-5019Fax: (085) 815-5055"
+ },
+ {
+  "bank_name": "Cagsawa Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "#281 VNB Building, T. Perez Street, San Roque, Daraga, AlbayNo. of Offices: 2",
+  "contact": "(052) 483-3376; 742-0985Fax: (052) 483-3376; 742-0985"
+ },
+ {
+  "bank_name": "Camalig Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rizal Street, Ilawod East, 4500 Legazpi City, AlbayNo. of Offices: 22",
+  "contact": "(052) 480-2654; 480-0810; 480-0001Fax: (052) 480-0801"
+ },
+ {
+  "bank_name": "Camiling Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Camiling Rural Bank building, Romulo Highway Quezon Avenue, Poblacion C, Camiling, 2306 TarlacNo. of Offices: 2",
+  "contact": "(045) 934-0849Fax: (045) 934-0182"
+ },
+ {
+  "bank_name": "Cantilan Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Orozco St., Magosilom, Cantilan, Surigao del Sur 8317No. of Offices: 49",
+  "contact": "(086) 212-5002Fax: (086) 212-5002"
+ },
+ {
+  "bank_name": "Card Bank, Inc. (A Microfinance - Oriented Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "35 P. Burgos St. Corner M. Paulino St., San Pablo City, LagunaNo. of Offices: 643",
+  "contact": "(049) 562-4309; 562-7772; 562-6560; 800-3598Fax: (049) 562-0009"
+ },
+ {
+  "bank_name": "CARD MRI Rizal Bank, Inc., A Microfinance-Oriented Rural Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "Aguirre St. Corner Pedro Guevarra Avenue, Sta. Cruz, Laguna 4009No. of Offices: 253",
+  "contact": "(049) 523-1047Fax: (049) 523-1047"
+ },
+ {
+  "bank_name": "Caritas Banco ng Masa, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Easy Mart Compound, 4215 Calatagan, BatangasNo. of Offices: 3",
+  "contact": "09178391205; 0919-5470600; (043) 419-0166"
+ },
+ {
+  "bank_name": "Cavite United Rural Bank, Corporation",
+  "type": "Rural & Cooperative Banks",
+  "address": "0315 General Aguinaldo Highway Lalaan 2, Silang, CaviteNo. of Offices: 10",
+  "contact": "(046) 435-1701; 571-2341Fax: (046) 435-1702"
+ },
+ {
+  "bank_name": "Cebuana Lhuillier Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "160 Zapote Road, Barangay Zapote I,  Bacoor, CaviteNo. of Offices: 7",
+  "contact": "(046) 417-33-66;(02) 77599888 loc 4186\/2186Fax: 670-0119 (Mla.Line)"
+ },
+ {
+  "bank_name": "Century Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "CRBI Building, Zone 1, Bgy. Villarica, Babak District, Island Garden City of Samal, 8119 Davao del NorteNo. of Offices: 3",
+  "contact": "0922-8922479; 0917-6817349Fax: (084) 822-1317"
+ },
+ {
+  "bank_name": "Citizen's Rural Bank (Cabiao), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "San Juan North, 3107 Cabiao, Nueva EcijaNo. of Offices: 4",
+  "contact": "(044) 958-1836Fax: (044) 958-1836"
+ },
+ {
+  "bank_name": "Classic Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "G\/F Classic Bank Bldg., Evangelista St., Batangas CityNo. of Offices: 4",
+  "contact": "(043) 723-5554"
+ },
+ {
+  "bank_name": "Common Wealth Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Amity Building, National Highway, Cauayan, IsabelaNo. of Offices: 12",
+  "contact": "(078) 652-0609 \/ (078) 652-2490 \/ (078) 897-1030 \/ (0917) 574-0741Fax: (078) 652-0609"
+ },
+ {
+  "bank_name": "Community Rural Bank of Dapitan City, Incorporated",
+  "type": "Rural & Cooperative Banks",
+  "address": "Andres Bonifacio Avenue, Bagting, Dapitan City 7101 Zamboanga del NorteNo. of Offices: 8",
+  "contact": "(065) 213-6263Fax: (065) 213-6478"
+ },
+ {
+  "bank_name": "Community Rural Bank of Medellin (Cebu), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Jose Rizal St., Poblacion, Medellin, Cebu CityNo. of Offices: 1",
+  "contact": "(032) 436-2042(032) 516-0965"
+ },
+ {
+  "bank_name": "Community Rural Bank of San Felipe (Zambales), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "National Highway, West Feria, San Felipe, ZambalesNo. of Offices: 1",
+  "contact": "(047) 913-4209Fax: (043) 913-3801"
+ },
+ {
+  "bank_name": "Community Rural Bank of San Gabriel (La Union), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, San Gabriel, La UnionNo. of Offices: 1",
+  "contact": "(0915) 702-9553; (072) 687-0259Fax: None"
+ },
+ {
+  "bank_name": "Cooperative Bank of Benguet (CBB)",
+  "type": "Rural & Cooperative Banks",
+  "address": "JC 225 Central Pico, Km 5, La Trinidad, Benguet 2601No. of Offices: 4",
+  "contact": "(074) 422-2626\/(074) 422-1268Fax: (074) 422-1849"
+ },
+ {
+  "bank_name": "Cooperative Bank of Bohol",
+  "type": "Rural & Cooperative Banks",
+  "address": "0126 C.P.G. East Avenue, Brgy. Poblacion 1, Tagbilaran City 6300No. of Offices: 4",
+  "contact": "(038) 411-3483; 3475"
+ },
+ {
+  "bank_name": "Cooperative Bank of Cagayan",
+  "type": "Rural & Cooperative Banks",
+  "address": "Diversion Road, San Gabriel, Tuguegarao City, CagayanNo. of Offices: 6",
+  "contact": "(078) 844-3432"
+ },
+ {
+  "bank_name": "Cooperative Bank of Cebu",
+  "type": "Rural & Cooperative Banks",
+  "address": "M. Velez Street, Guadalupe, Cebu City 6000No. of Offices: 4",
+  "contact": "(032) 254-9547Fax: (032) 254-9547"
+ },
+ {
+  "bank_name": "Cooperative Bank of Cotabato",
+  "type": "Rural & Cooperative Banks",
+  "address": "CBC Bldg. 1, Lanao, Kidapawan City, North Cotabato 9400No. of Offices: 16",
+  "contact": "(064) 572-3264Fax: (064) 288-1220"
+ },
+ {
+  "bank_name": "Cooperative Bank of La Union",
+  "type": "Rural & Cooperative Banks",
+  "address": "CBLU Bldg., National Highway, Sta. Barbara, Agoo, La UnionNo. of Offices: 1",
+  "contact": "(072) 521-0006; 710-0655Fax: (072) 710-0655"
+ },
+ {
+  "bank_name": "Cooperative Bank of Mt. Province",
+  "type": "Rural & Cooperative Banks",
+  "address": "Cor. Loc-ong st., 1st floor, CBMP Building, Road Level, Poblacion, Bontoc, 2616 Mountain ProvinceNo. of Offices: 1",
+  "contact": "(074) 633-1006"
+ },
+ {
+  "bank_name": "Cooperative Bank of Negros Oriental",
+  "type": "Rural & Cooperative Banks",
+  "address": "CBNO Bldg., Libertad St., 6200 Dumaguete CityNo. of Offices: 5",
+  "contact": "(035)225-1708\/(035)422-6931 0917-156-1303Fax: (035) 225-1708 loc. 109"
+ },
+ {
+  "bank_name": "Cooperative Bank of Nueva Vizcaya",
+  "type": "Rural & Cooperative Banks",
+  "address": "Burgos cor Gaddang Sts., Quirino, Solano, Nueva VizcayaNo. of Offices: 5",
+  "contact": "(078) 326-7658Fax: (078) 326-7658"
+ },
+ {
+  "bank_name": "Cooperative Bank of Palawan",
+  "type": "Rural & Cooperative Banks",
+  "address": "CBP Bldg. Junction I, National Highway, Brgy. San Miguel, Puerto Princesa City, 5300 PalawanNo. of Offices: 7",
+  "contact": "(048)-434-4492(048)-434-9505(+63)929-3651-182Fax: (048) 434-4492"
+ },
+ {
+  "bank_name": "Cooperative Bank of Quezon Province",
+  "type": "Rural & Cooperative Banks",
+  "address": "Granja cor. L. Guinto Sts., Lucena City, QuezonNo. of Offices: 9",
+  "contact": "(042) 373-5103; 660-5132Fax: (042) 660-1507"
+ },
+ {
+  "bank_name": "Cooperative Bank of Zambales",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rizal Ave. corner Gomez St. Zone II, Iba, Zambales 2201No. of Offices: 1",
+  "contact": "(047) 811-7316(047) 602-1890Fax: (047) 602-1890"
+ },
+ {
+  "bank_name": "Cordillera Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "No. 31 Mena Crisologo St., Barangay 1, Vigan, Ilocos SurNo. of Offices: 1",
+  "contact": "(077) 722-2739(+63) 917-714-3379"
+ },
+ {
+  "bank_name": "Country Builders Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "6 Gen. Luna St., Tuktukan, Taguig, Metro ManilaNo. of Offices: 36",
+  "contact": "(02) 8661-6604 (02) 8941-1992  8882-3495Fax: 643-5845; 941-8092"
+ },
+ {
+  "bank_name": "Crown Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Mac Arthur Highway, San Vicente, Apalit, 2016 PampangaNo. of Offices: 2",
+  "contact": "(045) 402-5877(045) 435-2044(+63) 917-8850345Fax: (045) 402-5877"
+ },
+ {
+  "bank_name": "CSFirst Bank, INC. -A Rural Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "Ground Floor, Royal Mall Complex, J.P. Rizal Street, Zone 1, Bayambang, PangasinanNo. of Offices: 2",
+  "contact": "(075) 696-09860917503228109209787078"
+ },
+ {
+  "bank_name": "Cuyapo Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "No. 2 Quezon Ave. St., Brgy. Poblacion, Cuyapo, 3117 Nueva EcijaNo. of Offices: 2",
+  "contact": "(044) 608-1538"
+ },
+ {
+  "bank_name": "Diamond Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "No. 117 Hilltop Road, Baguio CityNo. of Offices: 2",
+  "contact": "(074) 442-3440Fax: (074) 442-3387"
+ },
+ {
+  "bank_name": "Dumaguete Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "San Jose St., Poblacion 6, Dumaguete City, 6200 Negros OrientalNo. of Offices: 1",
+  "contact": "(035) 225-4820Fax: (035) 422-6912"
+ },
+ {
+  "bank_name": "Dungganon Bank (A Microfinance Rural Bank), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "G\/F NWTF Bldg., 102 San Sebastian-Verbena Streets, Bacolod City, 6100 Negros OccidentalNo. of Offices: 2",
+  "contact": "(034) 433-7884 \/ (032) 433-7451 \/ 0998-1825548Fax: (034) 433-0228"
+ },
+ {
+  "bank_name": "East West Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "3rd and 4th floors, East West Bank Building, J. P. Laurel Avenue Corner Iñigo Street, Bajada, Davao City 8000No. of Offices: 99",
+  "contact": "(082) 238-7700 Local 7755"
+ },
+ {
+  "bank_name": "ECCOBANK (A Rural Bank) Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Brgy. Poblacion, San Isidro, Nueva EcijaNo. of Offices: 2",
+  "contact": "0908-8855324"
+ },
+ {
+  "bank_name": "Emerald Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Barangay Sta. Cruz I, San Jose Del Monte City, Bulacan 3024No. of Offices: 1",
+  "contact": "(044) 692-4201; 698-1434; 0919-6415063Fax: (044) 692-2076"
+ },
+ {
+  "bank_name": "Enterprise Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Km. 5, Buhangin, 8000 Davao CityNo. of Offices: 33",
+  "contact": "(082) 225-1111"
+ },
+ {
+  "bank_name": "Enterprise Capital Bank, Inc. (Taguig Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Amber Place, 67 Bayani Road, Fort Bonifacio, 1630 Taguig City, Metro ManilaNo. of Offices: 2",
+  "contact": "(02) 889-8714Fax: (02) 889-8718"
+ },
+ {
+  "bank_name": "Entrepreneur Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "63 A. Mabini St., Barangay Poblacion, San Pedro, 4023 LagunaNo. of Offices: 8",
+  "contact": "(049) 808-1296Fax: (042) 808-2724"
+ },
+ {
+  "bank_name": "Far Eastern Bank (A Rural Bank) Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Brgy. 7 Market Site, Dolores, 6817 Eastern SamarNo. of Offices: 1",
+  "contact": "0917-3245260Fax: (055) 565-5561"
+ },
+ {
+  "bank_name": "Farm Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Teodoro Arcenas Trade Center, Plaridel St., Barangay 8, Roxas City, 5800 CapizNo. of Offices: 2",
+  "contact": "(036) 621-4532Fax: (036) 621-4532"
+ },
+ {
+  "bank_name": "FBC First Bank of Calaca, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "137 Marasigan St., Poblacion 3, Calaca, 4212 BatangasNo. of Offices: 3",
+  "contact": "(043) 223-5060; 424-0216Fax: (043) 424-0217"
+ },
+ {
+  "bank_name": "Filidian Rural Bank of Antipolo Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "#6 Sen. Lorenzo Sumulong Memorial Circle, Brgy. Dalig, Antipolo, 1870 RizalNo. of Offices: 2",
+  "contact": "(02) 697-4430; 697-0838; 696-5521Fax: (02) 650-8659"
+ },
+ {
+  "bank_name": "First Community Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "G\/F Villasor-Villanueva Bldg., No. 59 Locsin Street, Barangay 37, Bacolod City, 6100 Negros OccidentalNo. of Offices: 3",
+  "contact": "(034) 434-5983Fax: (043) 434-5984"
+ },
+ {
+  "bank_name": "First Imperial Business Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "BCB Building, Simon Ledesma Street, Jaro, Iloilo CityNo. of Offices: 32",
+  "contact": "(033)335-8007Fax: (033)509-9012"
+ },
+ {
+  "bank_name": "First Integrity Bank, Inc. (Rural Bank of Bailen)",
+  "type": "Rural & Cooperative Banks",
+  "address": "1655 Calle Real St., Brgy. Poblacion I, General E. Aguinaldo, Cavite 4124No. of Offices: 2",
+  "contact": "(02) 861-6053 (046) 513-0884 (0917) 844-0860 (0933) 852-9988Fax: (046) 443-2974"
+ },
+ {
+  "bank_name": "First Isabela Cooperative Bank, Inc. (Ficobank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Minante I, Cauayan City Public Mkt, Cauayan City (Executive Address: 2nd Floor, FICO Bank Corporate Center, Minante 1, Cauayan City, 3305 Isabela)No. of Offices: 40",
+  "contact": "(078) 307-0051; 307-2675Fax: (078) 307-3364"
+ },
+ {
+  "bank_name": "First Mindoro Microfinance Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "First Microbank Building, JP Rizal St., Poblacion, Bongabong, 5211 Oriental MindoroNo. of Offices: 2",
+  "contact": "(043) 283-5660Fax: (043) 283-5660"
+ },
+ {
+  "bank_name": "First Philippine Partners Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "National Highway, Pitogo, Consolacion, 6001 CebuNo. of Offices: 14",
+  "contact": "(032) 255-0458"
+ },
+ {
+  "bank_name": "First State Bank, Inc., A Rural Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "Ground Floor Door 1, MFC Building, Lacson-Hernaez Sts., Brgy. 22, 6100 Bacolod City, Negros OccidentalNo. of Offices: 2",
+  "contact": "(034) 434-2774Fax: (034) 434-2767"
+ },
+ {
+  "bank_name": "First Tagum Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Bonifacio cor. Rizal Sts., 8100 Tagum City, Davao del NorteNo. of Offices: 15",
+  "contact": "(084)655-6281(084)655-7114Fax: (084) 400-1011"
+ },
+ {
+  "bank_name": "First United Farmers Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Brgy. Callos, Sta. Cruz, LagunaNo. of Offices: 3",
+  "contact": "(049) 808-2091"
+ },
+ {
+  "bank_name": "Frontier Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "M. Rizon Bldg. Punta Rizal St., Lapu-Lapu City, 6015 CebuNo. of Offices: 1",
+  "contact": "(032) 342-8339; 340-8918Fax: (032) 340-8918"
+ },
+ {
+  "bank_name": "Gateway Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "McArthur Highway, Wawa, Balagtas, 3016 BulacanNo. of Offices: 10",
+  "contact": "(044) 693-3451Fax: (044) 693-3452"
+ },
+ {
+  "bank_name": "GM Bank of Luzon, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "GM Bank Corporate Office Building, Maharlika Highway, Brgy. Dimasalang, Cabanatuan City, 3100 Nueva EcijaNo. of Offices: 47",
+  "contact": "(044) 456-5042; 456-0186; 940-6000; 600-6000Fax: (044) 456-5763"
+ },
+ {
+  "bank_name": "Golden Rural Bank of the Philippines, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "National Hi-way, Cabaruan, Cauayan City, 3305 IsabelaNo. of Offices: 10",
+  "contact": "(078) 636-3052; 652-0155Fax: (078) 636-3052; 652-2363"
+ },
+ {
+  "bank_name": "Guagua Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Plaza Burgos, Guagua, 2003 PampangaNo. of Offices: 25",
+  "contact": "(045) 9010-234; 900-4552Fax: (047) 237-0014"
+ },
+ {
+  "bank_name": "Guagua Savers Bank (A Rural Bank), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "503 Clemente Puno St., Sto. Cristo, Guagua, 2003 PampangaNo. of Offices: 2",
+  "contact": "(045) 900-0100; 900-2969Fax: (047) 237-0014"
+ },
+ {
+  "bank_name": "Highland Rural Bank Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "A-02 D&L Bldg., Poblacion, La trinidad, 2601 BenguetNo. of Offices: 3",
+  "contact": "(074) 422-1333; 665-3553Fax: (074) 422-1333"
+ },
+ {
+  "bank_name": "Ilocos Consolidated Cooperative Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "ISCB Bldg., National Highway, Bagani Camposanto, Candon, 2710 Ilocos SurNo. of Offices: 14",
+  "contact": "(077) 674-0357Fax: (077) 674-0357"
+ },
+ {
+  "bank_name": "Imus Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Cor. Col. M. Sapinoson St. & Capt. I Bella St., Poblacion 1C, City of Imus, 4103 CaviteNo. of Offices: 7",
+  "contact": "(046) 471-3358Fax: (046) 472-2002; 471-0713"
+ },
+ {
+  "bank_name": "Innovative Bank  Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "F. Martinez St., Barangay Takungan, Pililla, 1910 RizalNo. of Offices: 7",
+  "contact": "(02) 8654-0018; 8654-0019Fax: (02) 654-0013"
+ },
+ {
+  "bank_name": "Janiuay Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Crispin Salazar St., Janiuay, Iloilo 5034No. of Offices: 5",
+  "contact": "(033) 531-8430"
+ },
+ {
+  "bank_name": "Katipunan Banking Corporation (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Quezon Avenue, cor. Aguilar St., Miputak, Dipolog City, 7100 Zamboanga del NorteNo. of Offices: 35",
+  "contact": "(065) 212-7647Fax: (065) 212-7647"
+ },
+ {
+  "bank_name": "Key Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, San Antonio, 3108 Nueva EcijaNo. of Offices: 1",
+  "contact": "(044) 958-0756Fax: (02) 899-3970; (044) 486-2086"
+ },
+ {
+  "bank_name": "Lagawe Highlands Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "59 JP Rizal Avenue, Poblacion East, Lagawe, 3600 IfugaoNo. of Offices: 8",
+  "contact": "(074) 382-2156; 410-5237 (Mla)"
+ },
+ {
+  "bank_name": "Laguna Prestige Banking Corporation, (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "233 J.P. Rizal St. Corner Limcaoco St. Brgy Poblacion Uno, Cabuyao City, Laguna 4025No. of Offices: 6",
+  "contact": "(049) 531-2006"
+ },
+ {
+  "bank_name": "Liberty Bank (A Rural Bank), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "McArthur Highway corner Contreras St., Calvario, Meycauayan, 3020 BulacanNo. of Offices: 4",
+  "contact": "(044) 228-6032"
+ },
+ {
+  "bank_name": "LifeBank- A Rural Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "Bypass Road, Barangay Duyan-Duyan, Sta. Barbara, 5002 IloiloNo. of Offices: 55",
+  "contact": "(033) 332-1436; 333-1439Fax: (033) 523-4506"
+ },
+ {
+  "bank_name": "Limcoma Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Makalintal Avenue, Poblacion 2, San Jose, Batangas 4227No. of Offices: 4",
+  "contact": "(043) 726-2209; 726-2602; 726-0007"
+ },
+ {
+  "bank_name": "Lipa Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "65 T.M. Kalaw St., Lipa City, Batangas 4217No. of Offices: 7",
+  "contact": "(043) 756-2411Fax: None"
+ },
+ {
+  "bank_name": "LUDB Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Quezon Avenue, Brgy. II, San Fernando City, 2500 La UnionNo. of Offices: 1",
+  "contact": "(072) 888-2588\/414\/2373Fax: (072) 794-2175"
+ },
+ {
+  "bank_name": "Mactan Rural Bank (Lapu-Lapu City), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "MYFC Bldg., M. Patalinghug Ave., Pajo, Lapu-Lapu CityNo. of Offices: 10",
+  "contact": "(032) 261-1879; 495-2332; 316-9342Fax: (032) 495-2332"
+ },
+ {
+  "bank_name": "Maharlika Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "National Road, Poblacion North, Sta. Cruz, 2213 ZambalesNo. of Offices: 2",
+  "contact": "(047) 831-1466"
+ },
+ {
+  "bank_name": "Malarayat Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "G.A. Solis St., Brgy. 11, Lipa City, 4217 BatangasNo. of Offices: 12",
+  "contact": "(043) 756-3883Fax: (043) 756-3883"
+ },
+ {
+  "bank_name": "Mallig Plains Rural Bank (Isabela), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "National Highway, Centro 2, 3323 Mallig, IsabelaNo. of Offices: 18",
+  "contact": "0917-5293240"
+ },
+ {
+  "bank_name": "Manor Bank - A Rural Bank Corp.",
+  "type": "Rural & Cooperative Banks",
+  "address": "General Luna St. Corner Zamora St., Barangay Liwanag, 5505 Odiongan, RomblonNo. of Offices: 4",
+  "contact": "(042) 567-5141; (043) 727-1017Fax: (042) 567-5141"
+ },
+ {
+  "bank_name": "Marayo Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Cortez St., Brgy. I, Pontevedra, 6105 Negros OccidentalNo. of Offices: 14",
+  "contact": "(034) 377-7212; 737-1002Fax: (034) 377-7212"
+ },
+ {
+  "bank_name": "Maritime Bank Corporation (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Gen. E. Aguinaldo Highway, Bacoor, 4102 CaviteNo. of Offices: 4",
+  "contact": "(046) 471-1357Fax: (046) 471-3636"
+ },
+ {
+  "bank_name": "Masagana Rural Bank, (Gen. Natividad, N.E.), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Purok Caballero Poblacion, General Mamerto Natividad, 3125 Nueva EcijaNo. of Offices: 1",
+  "contact": "(044) 806-1389; (097) 352-9672; 0918-704-8087"
+ },
+ {
+  "bank_name": "Mega Rural Bank (Lucena City), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "175 C.M. Recto St., Brgy. IX, Lucena CityNo. of Offices: 1",
+  "contact": "(042) 660-2546Fax: (042) 710-8259"
+ },
+ {
+  "bank_name": "Mindanao Consolidated Cooperative Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "MCCB Bldg., Provincial Capitol Compound, 9000 Cagayan de Oro CityNo. of Offices: 22",
+  "contact": "(088) 856-1550Fax: (088) 858-3206"
+ },
+ {
+  "bank_name": "Misamis Bank, Inc. A Rural Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "National Highway, Sebac, Tudela 7202 Misamis OccidentalNo. of Offices: 3",
+  "contact": "(088) 545-0001Fax: None"
+ },
+ {
+  "bank_name": "Money Mall Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Mabini, 8807 Compostela Valley ProvinceNo. of Offices: 4",
+  "contact": "0942-4945156; 0932-9197364"
+ },
+ {
+  "bank_name": "Mount Carmel Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "J. M. Kalaw St., Lipa City, BatangasNo. of Offices: 21",
+  "contact": "(043) 756-4220(043) 277-3501Fax: (043) 756-4341"
+ },
+ {
+  "bank_name": "MVSM Bank (A Rural Bank Since 1953) Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "389 J. P. Rizal St., Sto. Niño, 1800 Marikina CityNo. of Offices: 12",
+  "contact": "(02) 681-0075\/682-0081 Local 101Fax: 501-8526"
+ },
+ {
+  "bank_name": "Naawan Community Rural Bank (Misamis Oriental), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "National Highway, Poblacion, Naawan, Misamis OrientalNo. of Offices: 2",
+  "contact": "(088) 555-0350Fax: (088) 555-0350; 857-2067"
+ },
+ {
+  "bank_name": "National Teachers & Employees Cooperative Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "Cor. M. J. Cuenco and Juan Luna Avenues, Mabolo, Cebu City 6000No. of Offices: 5",
+  "contact": "(032) 234-1817; 2341819; 415-9830Fax: None"
+ },
+ {
+  "bank_name": "Negros Cooperative Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "North Capitol Road, Bacolod City, 6100 Negros OccidentalNo. of Offices: 1",
+  "contact": "(034) 433-1993, (034) 709-0132Fax: None"
+ },
+ {
+  "bank_name": "Netbank (A Rural Bank), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Bagong Lipunan, Bry. 1, 5500 Romblon, RomblonNo. of Offices: 2",
+  "contact": "(042) 412-2864 to 67 Loc. 2143; 0929-8706550"
+ },
+ {
+  "bank_name": "Network Consolidated Cooperative Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "#47 20th Ave. corner 19th Ave.,Barangay San Roque, 1109 Quezon CityNo. of Offices: 9",
+  "contact": "(02) 364-6514, (02) 364-3756Fax: None"
+ },
+ {
+  "bank_name": "New Rural Bank of Agoncillo, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Alcantara St., Poblacion, Agoncillo, BatangasNo. of Offices: 1",
+  "contact": "(043) 740 4282"
+ },
+ {
+  "bank_name": "New Rural Bank of San Leonardo (Nueva Ecija), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "New Rural Bank of San leonardo, Inc. Building, Barangay Diversion, Maharlika Highway, San leonardo, Nueva EcijaNo. of Offices: 25",
+  "contact": "(044) 950-0022Fax: (044) 604-3004"
+ },
+ {
+  "bank_name": "North Pacific Banking Corporation (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "La Patria Building, National Highway, Cabaruan, Cauayan City, 3305 IsabelaNo. of Offices: 3",
+  "contact": "(0917) 574-4919; (0915) 620-8636Fax: (078) 652-1940"
+ },
+ {
+  "bank_name": "Occidental Mindoro Cooperative Bank (OMCB)",
+  "type": "Rural & Cooperative Banks",
+  "address": "615 Lapu-Lapu St., San Jose, Occidental MindoroNo. of Offices: 4",
+  "contact": "(043) 491-4303Fax: (043) 491-4303"
+ },
+ {
+  "bank_name": "One Cooperative Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "IDC Centre, Zapote Street Corner Kalayaan Ave., Brgy. Sta. Cruz, 1205 Makati CityNo. of Offices: 13",
+  "contact": "(02) 897-9046 ; 897-9054Fax: (02) 897-1400; 897-6600"
+ },
+ {
+  "bank_name": "One Unified Rural Bank of Cavite Incorporated",
+  "type": "Rural & Cooperative Banks",
+  "address": "Purok 3, General Trias Drive, Brgy. Tejero, City of General Trias, CaviteNo. of Offices: 7",
+  "contact": "(046) 437-8114(046) 509-0400( 0922) 898-6647"
+ },
+ {
+  "bank_name": "Oriental Tamaraw Rural Bank of Naujan, (Or. Mdo.), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Barangay Barcenaga, Naujan, 5204 Oriental MindoroNo. of Offices: 1",
+  "contact": "(0919) 9943994Fax: (043) 208-3590"
+ },
+ {
+  "bank_name": "Ormon Bank (Rural Bank of Mulanay (Quezon), Inc.)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Barangay Sto. Domingo, Bay, Laguna 4033No. of Offices: 4",
+  "contact": "(049) 536-3532Fax: (049) 536-3532"
+ },
+ {
+  "bank_name": "Own Bank, The Rural Bank of Cavite City, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "505 P. Burgos Ave. cor. P. Julio st., Caridad, 4100 Cavite CityNo. of Offices: 1",
+  "contact": "(046) 431-2066Fax: (046) 431-3584"
+ },
+ {
+  "bank_name": "Pangasinan Bank (A Rural Bank), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rizal Avenue, Poblacion, Mangaldan, 2432 PangasinanNo. of Offices: 6",
+  "contact": "(075) 513-5013; 523-5859Fax: (075) 653-1570"
+ },
+ {
+  "bank_name": "Panguil Bay Rural Bank of Ozamiz, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Casa Ezperanza, Don Anselmo Bernad Avenue, Ozamis City, 7200 Misamis OccidentalNo. of Offices: 1",
+  "contact": "(088) 521-2385Fax: (088) 521-2385"
+ },
+ {
+  "bank_name": "Partner Rural Bank (Cotabato), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "J.P. Laurel St., Poblacion 2, Pigcawayan, 9412 North CotabatoNo. of Offices: 8",
+  "contact": "(064) 200-4104; 229-3356; Mla-(02) 843-2761;Fax: (064) 229-3356"
+ },
+ {
+  "bank_name": "People's Rural Bank (Gen. Santos City), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Plaza Nova Bldg., I.Santiago Blvd., Gen. Santos City, South CotabatoNo. of Offices: 2",
+  "contact": "(083) 553-2290 to 91Fax: (083) 302-5470"
+ },
+ {
+  "bank_name": "People’s Hawak Kamay Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rancho San Roque Building,National Highway, Brgy. Poblacion, Jose Dalman, Zamboanga del NorteNo. of Offices: 1"
+ },
+ {
+  "bank_name": "Philippine SME Bank, Inc., A Rural Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "OCS Bldg., M.L. Quezon St., Cabancalan, 6014 Mandaue City, CebuNo. of Offices: 1",
+  "contact": "(032) 421-3677; 0917-3216750"
+ },
+ {
+  "bank_name": "Pioneer Bank (A Rural Bank), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Jimili-an, Loboc, BoholNo. of Offices: 2",
+  "contact": "(038) 537-9330; 0930-0898126"
+ },
+ {
+  "bank_name": "Planbank \"Rural Bank of Canlubang Planters, Inc.\"",
+  "type": "Rural & Cooperative Banks",
+  "address": "Planbank Bldg., along National Highway corner Chipeco Avenue, Barangay Halang, Calamba City, 4027 LagunaNo. of Offices: 13",
+  "contact": "(049) 545-7094Fax: (049) 245-3480; 545-4358"
+ },
+ {
+  "bank_name": "ProFarmers Rural Banking Corporation",
+  "type": "Rural & Cooperative Banks",
+  "address": "Zone 5, Sto. Nino 2nd, San Jose City, Nueva EcijaNo. of Offices: 5",
+  "contact": "0905-4404065"
+ },
+ {
+  "bank_name": "Progressive Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Luta Del Norte, Malvar, 4233 BatangasNo. of Offices: 4",
+  "contact": "(043) 778-4223Fax: (043) 778-0943"
+ },
+ {
+  "bank_name": "Provident Rural Bank of Sta. Cruz (Laguna), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Quezon Avenue, Calios, Sta. Cruz, 4004 LagunaNo. of Offices: 3",
+  "contact": "(049) 501-2461"
+ },
+ {
+  "bank_name": "Queen City Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Ground Floor Plazuela Tres, Evangelista Corner Leocadio Streets, Pavia, IloiloNo. of Offices: 1",
+  "contact": "(033) 320-0040Fax: (033) 320-0040"
+ },
+ {
+  "bank_name": "Quezon Capital Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Perez cor C.M. Recto, Lucena CityNo. of Offices: 36",
+  "contact": "(042) 710-3182 \/ (042) 710-2045Fax: (042) 660-1997"
+ },
+ {
+  "bank_name": "Rang-Ay Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "G\/F Nisce-Querol Bldg., 67 Gov. Luna St., City of San Fernando, La UnionNo. of Offices: 30",
+  "contact": "(072) 242-5661 to 63Fax: (072) 242-5661 to 63"
+ },
+ {
+  "bank_name": "RBT Bank, Inc., A Rural Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rizal St., Poblacion, Talisayan, 9012 Misamis OrientalNo. of Offices: 11",
+  "contact": "0917-6338089"
+ },
+ {
+  "bank_name": "RNG Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "Talamban Mart, Cabancalan Road, Talamban, Cebu CityNo. of Offices: 15",
+  "contact": "(032) 418-0888 - 89; 238-6247Fax: (032) 418-0888"
+ },
+ {
+  "bank_name": "Rural Bank of Agoo, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "National Highway, Consolacion, Agoo, La UnionNo. of Offices: 5",
+  "contact": "(072) 521-0059Fax: (072) 521-0059"
+ },
+ {
+  "bank_name": "Rural Bank of Alabel (Sarangani), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Aldevinco St., Alabel, Sarangani 9501No. of Offices: 3",
+  "contact": "(083) 508-2066Fax: (083) 508-2066"
+ },
+ {
+  "bank_name": "Rural Bank of Alaminos (Pangasinan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Quezon Avenue, Poblacion, City of Alaminos, Pangasinan 2404No. of Offices: 1",
+  "contact": "(075) 552-7161; 654-1245Fax: (075) 524-2219"
+ },
+ {
+  "bank_name": "Rural Bank of Alicia (Isabela), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Quezon St., Magsaysay, Alicia, IsabelaNo. of Offices: 1",
+  "contact": "(078) 323-0469Fax: (078) 323-0469"
+ },
+ {
+  "bank_name": "Rural Bank of Alitagtag, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Alitagtag, BatangasNo. of Offices: 1",
+  "contact": "0915-7908096"
+ },
+ {
+  "bank_name": "Rural Bank of Altavas (Aklan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Gen. Luna St., Barangay Poblacion, Altavas, AklanNo. of Offices: 1",
+  "contact": "(036) 269-1081; 0912-8873368; 0995-6436258"
+ },
+ {
+  "bank_name": "Rural Bank of Amlan (Negros Oriental), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "North National Highway Corner Mabini St., Poblacion, Amlan, Negros OrientalNo. of Offices: 1",
+  "contact": "(035) 527-0013; 09228056081; 09222317702Fax: (035) 527-0013"
+ },
+ {
+  "bank_name": "Rural Bank of Anda (Pangasinan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "5 Rizal Street, Poblacion, Anda, PangasinanNo. of Offices: 7",
+  "contact": "(075) 636-3219(075) 542-6575Fax: (075) 662-1802"
+ },
+ {
+  "bank_name": "Rural Bank of Angat (Bulacan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "M.A. Fernando St., San Roque, Angat, BulacanNo. of Offices: 1",
+  "contact": "(044) 308-1045Fax: (044) 769-1697"
+ },
+ {
+  "bank_name": "Rural Bank of Angeles, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "1229 Sto. Entierro St., Angeles City, PampangaNo. of Offices: 34",
+  "contact": "(045) 323-4196; 322-2444"
+ },
+ {
+  "bank_name": "Rural Bank of Angono, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "139 M. L. Quezon Avenue, Brgy. San Isidro, Angono, Rizal 1930No. of Offices: 3",
+  "contact": "(02) 651-0087Fax: (02) 651-1999"
+ },
+ {
+  "bank_name": "Rural Bank of Antipolo, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "53 J. Sumulong St., Brgy. San Roque, Antipolo City 1870 RizalNo. of Offices: 1",
+  "contact": "(02) 697-0232 \/ 630-3344Fax: (02) 650-5960"
+ },
+ {
+  "bank_name": "Rural Bank of Apalit, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "RBA Bldg., Along Mac Arthur Highway, Brgy. San Vicente, Apalit, Pampanga 2016No. of Offices: 2",
+  "contact": "(045) 879-0389Fax: (045) 981-1140"
+ },
+ {
+  "bank_name": "Rural Bank of Aritao, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "National Highway, Barangay Banganan, 3704 Aritao, Nueva VizcayaNo. of Offices: 2",
+  "contact": "(0997) 974-4863"
+ },
+ {
+  "bank_name": "Rural Bank of Bacnotan, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "National Highway, Barangay Nagsibaanan, Bacnotan, La UnionNo. of Offices: 2",
+  "contact": "(072) 607-1155Fax: (072) 607-1155"
+ },
+ {
+  "bank_name": "Rural Bank of Baco (Oriental Mindoro), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion Baco, Oriental MindoroNo. of Offices: 3",
+  "contact": "(043) 288-4985Fax: (043) 288-4985"
+ },
+ {
+  "bank_name": "Rural Bank of Bacolod City, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "74-76 Narra Ave.,CSC, Barangay Villamonte, Bacolod City, Negros OccidentalNo. of Offices: 1",
+  "contact": "(034) 434-5454; 433-0871Fax: (034) 433-2704"
+ },
+ {
+  "bank_name": "Rural Bank of Bacong (Negros Oriental), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Corner Hibbard Avenue and Amigo Subdivision, Dumaguete City 6200, Negros OrientalNo. of Offices: 4",
+  "contact": "(035) 422-4359; 225-6672Fax: (035) 421-0212"
+ },
+ {
+  "bank_name": "Rural Bank of Bagabag (N.V.), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "65A National Highway, Barangay San Pedro, Bagabag, Nueva Vizcaya 3711No. of Offices: 5",
+  "contact": "(078) 332-2013 \/ (078) 332-2187 \/ (0917) 975-4364Fax: (078) 332-2013"
+ },
+ {
+  "bank_name": "Rural Bank of Bagac, Bataan, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "13 Jose P. Rizal Street, Barangay Pag-asa, Bagac, BataanNo. of Offices: 2",
+  "contact": "(047) 237-7375Fax: (047) 237-7375"
+ },
+ {
+  "bank_name": "Rural Bank of Baguio, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Ground Floor JESNOR Condominium Building, 4 Carino St. Corner Otek St., Baguio CityNo. of Offices: 1",
+  "contact": "816-1545; 852-6867; (074) 442-2976Fax: (074) 442-8049"
+ },
+ {
+  "bank_name": "Rural Bank of Balungao (Pangasinan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Balungao, PangasinanNo. of Offices: 4",
+  "contact": "(075) 583-8442; 583-2170"
+ },
+ {
+  "bank_name": "Rural Bank of Bambang (Nueva Vizcaya), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Maharlika Highway corner Rizal boulevard, Banggot, Bambang, 3702 Nueva VizcayaNo. of Offices: 6",
+  "contact": "(078) 362-0229Fax: (078) 362-0357"
+ },
+ {
+  "bank_name": "Rural Bank of Banga (Aklan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "0044 Rosal St., Poblacion, Banga, AklanNo. of Offices: 2",
+  "contact": "(036) 262-3363; 267-5855; 262-5749Fax: (036) 262-5749"
+ },
+ {
+  "bank_name": "Rural Bank of Bansud (Oriental Mindoro), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Unno Semilla St., Poblacion, Bansud, Oriental MindoroNo. of Offices: 3",
+  "contact": "(043) 298-7344Fax: (043) 298-7087"
+ },
+ {
+  "bank_name": "Rural Bank of Barili (Cebu), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Corner H. Alquizola and C. Alquizola Streets, 6036 Poblacion, Barili, CebuNo. of Offices: 9",
+  "contact": "(032) 470-9080; 470-9220"
+ },
+ {
+  "bank_name": "Rural Bank of Batac, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Albano St., Brgy. 1-N Ricarte, Batac City, Ilocos Norte 2906No. of Offices: 1",
+  "contact": "(077) 792-3750"
+ },
+ {
+  "bank_name": "Rural Bank of Bato (Leyte), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "482 Juan Luna St., Barangay Kalanggaman District, Bato, LeyteNo. of Offices: 1",
+  "contact": "(053) 336-2263; 568-0200Fax: (053) 336-2263"
+ },
+ {
+  "bank_name": "Rural Bank of Bauang, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "McArthur Highway corner Florendo St., Central East, Bauang, La UnionNo. of Offices: 2",
+  "contact": "(072) 705-1999; 531-0126Fax: (072) 607-7123"
+ },
+ {
+  "bank_name": "Rural Bank of Bay, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rizal Avenue, San Nicolas, Bay, LagunaNo. of Offices: 4",
+  "contact": "(049) 545-5576Fax: (049) 545-5576"
+ },
+ {
+  "bank_name": "Rural Bank of Bayambang (Pangasinan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rizal Avenue, Poblacion, Bayambang, PangasinanNo. of Offices: 1",
+  "contact": "(075) 632-2274Fax: (075) 632-0448"
+ },
+ {
+  "bank_name": "Rural Bank of Bayombong, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "National Road, 3700 Bayombong, Nueva VizcayaNo. of Offices: 9",
+  "contact": "(078) 321-2728Fax: (078) 321-2428"
+ },
+ {
+  "bank_name": "Rural Bank of Bogo (Cebu), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "P. Rodriguez St., Cogon, Bogo, CebuNo. of Offices: 3",
+  "contact": "(032) 251-2064; 434-8576"
+ },
+ {
+  "bank_name": "Rural Bank of Bolinao (Pangasinan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "RB of Bolinao Bldg., Santiago St., Poblacion, 2406 Bolinao, PangasinanNo. of Offices: 2",
+  "contact": "(075) 554-5031; 554-2061Fax: (075) 554-2005"
+ },
+ {
+  "bank_name": "Rural Bank of Bonifacio (Misamis Occidental), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Abeto L. Deles Building, Building No. 0039, 1-Unit Ground Floor, National Highway, Demetrio A. Fernan, Bonifacio, Misamis OccidentalNo. of Offices: 2",
+  "contact": "(0919) 205-1332; (062) 225-1634; (0917) 700-0772Fax: (062) 225-1634"
+ },
+ {
+  "bank_name": "Rural Bank of Bontoc (Mountain Province), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "First Floor EDNP Bldg., Poblacion, Bontoc,  Mountain Province 2616No. of Offices: 1",
+  "contact": 9396502552
+ },
+ {
+  "bank_name": "Rural Bank of Brooke'S Point (Palawan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rodriguez St., Poblacion District II, Brookes Point, PalawanNo. of Offices: 1",
+  "contact": "0915-7294318; 0939-9166273"
+ },
+ {
+  "bank_name": "Rural Bank of Bucay (Abra), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "South Poblacion, Bucay, Abra 2805No. of Offices: 1",
+  "contact": "(0917) 397-3155 (Head); (0926) 734-0058 (CO)Fax: None"
+ },
+ {
+  "bank_name": "Rural Bank of Cabangan (Zambales), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rural Bank of Cabagan (Zambales), Inc. Building, National Highway, Barangay San Antonio, Cabangan, ZambalesNo. of Offices: 1",
+  "contact": "0918-1111111; 0928-5201492; (047) 6030075"
+ },
+ {
+  "bank_name": "Rural Bank of Cabatuan (Iloilo), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Corner Magallon-Rizal Ilawod Sts., Cabatuan, Iloilo 5031No. of Offices: 1",
+  "contact": "(033) 333-3205Fax: (033) 522-7839"
+ },
+ {
+  "bank_name": "Rural Bank of Cabugao (Ilocos Sur), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rizal Poblacion, Cabugao, Ilocos SurNo. of Offices: 10",
+  "contact": "(077) 604-9987; 0917-5398320Fax: (077) 604-0031"
+ },
+ {
+  "bank_name": "Rural Bank of Cadiz, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Stall No. 2 & 3, Commercial Complex Bldg., Cabahug St., Brgy. Zone 4, Cadiz City Negros Occidental 6121No. of Offices: 1",
+  "contact": "(034) 493-0341Fax: None"
+ },
+ {
+  "bank_name": "Rural Bank of Calauan, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rizal Ave., Calauan, LagunaNo. of Offices: 1",
+  "contact": "(049) 568-0022"
+ },
+ {
+  "bank_name": "Rural Bank of Calbayog City, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "82 T. Bugallon St., Calbayog City, Western Samar 6710No. of Offices: 5",
+  "contact": "0917-8957798; Compliance Officer: 0915-8645396"
+ },
+ {
+  "bank_name": "Rural Bank of Calinog (Iloilo), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Aguinaldo St., Poblacion Ilaya, Calinog, IloiloNo. of Offices: 3",
+  "contact": "(033) 330-1492; (0917) 621-7993; (0917) 621-8008Fax: (033) 347-1924"
+ },
+ {
+  "bank_name": "Rural Bank of Candelaria, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Cabuñag St. Corner Bustamante St., Brgy. Poblacion, Candelaria, 4323 QuezonNo. of Offices: 1",
+  "contact": "(042) 585-4586; (042) 322-1060Fax: (042) 585-4586"
+ },
+ {
+  "bank_name": "Rural Bank of Capalonga (Camarines Norte),Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "J.P. Rizal St., Poblacion, Capalonga, Camarines NorteNo. of Offices: 3",
+  "contact": "0915-661-8172 \/ 0920-921-8079 \/ 0917-544-2965Fax: (054) 721-6021"
+ },
+ {
+  "bank_name": "Rural Bank of Cardona (Rizal), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Kaybural, Rizal Avenue, Barangay San Juan, 1920 Taytay, RizalNo. of Offices: 4",
+  "contact": "(02) 8584-3040Fax: (02) 8660-8507"
+ },
+ {
+  "bank_name": "Rural Bank of Casiguran (Aurora), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Jose Angara Avenue, Poblacion 4, 3204 Casiguran, AuroraNo. of Offices: 2",
+  "contact": "0977-6176-3120929-8638-4810909-949-3544"
+ },
+ {
+  "bank_name": "Rural Bank of Cauayan, Incorporated",
+  "type": "Rural & Cooperative Banks",
+  "address": "Don Jose Canciller Avenue, District 1, Cauayan City, 3305 IsabelaNo. of Offices: 18",
+  "contact": "(078) 652-1016; 634-5299; 652-2234Fax: (078) 652-2234"
+ },
+ {
+  "bank_name": "Rural Bank of Cavinti (Laguna), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Junction Street, Cavinti, LagunaNo. of Offices: 3",
+  "contact": "(049)523-0004 HO; 501-0961 BR"
+ },
+ {
+  "bank_name": "Rural Bank of Central Pangasinan (Bayambang), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Bayambang, Pangasinan 2418No. of Offices: 9",
+  "contact": "(075) 523-2156"
+ },
+ {
+  "bank_name": "Rural Bank of Compostela (COMVAL), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "J.P. Laurel St., Poblacion, Compostela, 8803 Compostela ValleyNo. of Offices: 6",
+  "contact": "(084) 400-9378; (0917) 724-8783; (0917) 719-4457"
+ },
+ {
+  "bank_name": "Rural Bank of Cuartero (Capiz), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Cuartero, CapizNo. of Offices: 1",
+  "contact": "0909-3886444; 0916-2115573"
+ },
+ {
+  "bank_name": "Rural Bank of Cuenca, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Marasigan St., Barangay 2, Cuenca, BatangasNo. of Offices: 2",
+  "contact": "(043) 772-0375; (043) 772-0547Fax: (043) 772-0375"
+ },
+ {
+  "bank_name": "Rural Bank of Cuyo (Palawan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Mendoza St., Barangay Bancal, Cuyo, PalawanNo. of Offices: 2",
+  "contact": "(+63) 918-941-4643"
+ },
+ {
+  "bank_name": "Rural Bank of Digos, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "2964 Rizal Avenue, Barangay Zone III, Digos City, 8002 Davao Del SurNo. of Offices: 11",
+  "contact": "(082) 553-1411; 553-4641Fax: (082) 553-4641"
+ },
+ {
+  "bank_name": "Rural Bank of Dolores (Quezon), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "05 Cauyan St., Brgy. Silangan, Dolores, Quezon 4326No. of Offices: 3",
+  "contact": "(042) 565-6569; 545-9574; (049) 801-3196Fax: (042) 565-6569"
+ },
+ {
+  "bank_name": "Rural Bank of Donsol (Sorsogon), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Clemente St., Marketsite, Donsol, 4715 SorsogonNo. of Offices: 3",
+  "contact": "(+63) 9989804618(+63) 9989804619 (+63) 9175596093"
+ },
+ {
+  "bank_name": "Rural Bank of Doña Remedios Trinidad (Bulacan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "9001 Luciano St., Pulong Sampaloc,  Doña Remedios Trinidad, Bulacan 3009No. of Offices: 1",
+  "contact": "044-8138316Fax: (0919) 580-4265"
+ },
+ {
+  "bank_name": "Rural Bank of Dulag (Leyte), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Kempis St., Brgy. Market Site, Dulag, 6505 LeyteNo. of Offices: 5",
+  "contact": "(053) 322-2028; 0917-3215545Fax: (053) 322-2151"
+ },
+ {
+  "bank_name": "Rural Bank of Dumangas, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Cor. Burgos-JM Basa Sts., Dumangas, IloiloNo. of Offices: 3",
+  "contact": "(033) 320-8053; 361-2225Fax: (033) 361-2754"
+ },
+ {
+  "bank_name": "Rural Bank of Dupax (Nueva Vizcaya), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Malasin, Dupax Del Norte, 3706 Nueva VizcayaNo. of Offices: 1",
+  "contact": "0918-9364419; 0917-9585795"
+ },
+ {
+  "bank_name": "Rural Bank of El Salvador (Misamis Oriental), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Zone 1, Poblacion, El Salvador, Misamis Oriental 9017No. of Offices: 1",
+  "contact": "(088) 555-0293"
+ },
+ {
+  "bank_name": "Rural Bank of Escalante (Negros Occ.), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "South Avenue, Barangay Balintawak, Escalante City, Negros OccidentalNo. of Offices: 1",
+  "contact": "(034) 454-0169Fax: (034) 454-0169"
+ },
+ {
+  "bank_name": "Rural Bank of Gandara (Samar), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "San Miguel St., Gandara, Western SamarNo. of Offices: 1",
+  "contact": "(055) 209-1634                               (055) 209-1133(055) 301-1067Fax: (055) 301-6035"
+ },
+ {
+  "bank_name": "Rural Bank of Gattaran (Cagayan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Centro Norte, Gattaran, 3508 CagayanNo. of Offices: 9",
+  "contact": "(078) 372-0239Fax: (078) 396-99-35"
+ },
+ {
+  "bank_name": "Rural Bank of General Luna (Quezon), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Ester St., Poblacion, General Luna, QuezonNo. of Offices: 1",
+  "contact": "(042) 394-7056; (0919) 995-1138"
+ },
+ {
+  "bank_name": "Rural Bank of Gingoog, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Lugod-Guno Sts., Gingoog, 9014 Misamis OrientalNo. of Offices: 1",
+  "contact": "(088) 861-1067Fax: (088) 861-1067"
+ },
+ {
+  "bank_name": "Rural Bank of Gitagum (Misamis Oriental), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Gitagum, Misamis OrientalNo. of Offices: 1",
+  "contact": "(088) 555-0723Fax: None"
+ },
+ {
+  "bank_name": "Rural Bank of Gloria (Or. Min.), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion Gloria, 5209 Oriental MindoroNo. of Offices: 3",
+  "contact": "0910-5537672; 0975-9142545; (043) 284-3754; (043) 443-1069"
+ },
+ {
+  "bank_name": "Rural Bank of Guinobatan, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "JMH Building, Mabini St., Barangay Poblacion, Guinobatan, AlbayNo. of Offices: 12",
+  "contact": "(052) 484-6439Fax: (052) 484-6439"
+ },
+ {
+  "bank_name": "Rural Bank of Guiuan (Eastern Samar), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Sta. Cruz St., Guiuan, 6809 Eastern SamarNo. of Offices: 2",
+  "contact": "President: 0917-3170090, Compliance: 09178648658"
+ },
+ {
+  "bank_name": "Rural Bank of Hermosa (Bataan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Burgos St., Poblacion, Hermosa, Bataan 2111No. of Offices: 1",
+  "contact": "(047) 491-1516Fax: (047) 491-1516"
+ },
+ {
+  "bank_name": "Rural Bank of Hilongos,Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "R.V. Villaflores St., Hilongos 6524 LeyteNo. of Offices: 2",
+  "contact": "(053) 336-2022; (053) 567-8606Fax: (053) 567-8606"
+ },
+ {
+  "bank_name": "Rural Bank of Hindang (Leyte), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "1082 J.P. Rizal Street, Poblacion 1, Hindang, 6523 LeyteNo. of Offices: 6",
+  "contact": "(053) 530-0429; 0917 723 4287"
+ },
+ {
+  "bank_name": "Rural Bank of Hinundayan (Southern Leyte), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rizal St., District III, Hinundayan, Southern LeyteNo. of Offices: 1",
+  "contact": "0977-807-8205"
+ },
+ {
+  "bank_name": "Rural Bank of Ibajay, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "2nd Floor, Ibajay Public Market, National Highway, Poblacion, Ibajay, AklanNo. of Offices: 1",
+  "contact": "(036) 289-2287"
+ },
+ {
+  "bank_name": "Rural Bank of Ilog (Negros Occidental), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Dancalan, Ilog, Negros OccidentalNo. of Offices: 5",
+  "contact": "(034) 476-4228 to (034) 213-2781Fax: (034) 471-2970"
+ },
+ {
+  "bank_name": "Rural Bank of Iloilo City, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Luna St., La Paz, Iloilo CityNo. of Offices: 1",
+  "contact": "(033) 320-5043Fax: (033) 320-4793"
+ },
+ {
+  "bank_name": "Rural Bank of Infanta, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Corner Velasco & Mabini Streets, Infanta, QuezonNo. of Offices: 2",
+  "contact": "(042) 535-2235; 535-2662"
+ },
+ {
+  "bank_name": "Rural Bank of Irosin, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "M. L. Quezon St., Barangay San Julian, Irosin, SorsogonNo. of Offices: 1",
+  "contact": "(056) 557-3251Fax: (056) 557-3251"
+ },
+ {
+  "bank_name": "Rural Bank of Itogon (Benguet), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "1993 Public Market Bldg., Km. 5 Pico, La Trinidad, 2601 BenguetNo. of Offices: 8",
+  "contact": "(074) 443-9867; 304-3278; 0920-913-3907Fax: (074) 442-5588"
+ },
+ {
+  "bank_name": "Rural Bank of Jaen, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "P. Gonzalo St., Apo Esquivel, Poblacion, Jaen, Nueva EcijaNo. of Offices: 3",
+  "contact": "(044) 486-2702Fax: (044) 486-5572"
+ },
+ {
+  "bank_name": "Rural Bank of Jamindan (Capiz), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Jamindan, CapizNo. of Offices: 1",
+  "contact": "(036) 647-0286; 0917-3321557Fax: (036) 647-0286"
+ },
+ {
+  "bank_name": "Rural Bank of Jimenez (Misamis Occidental), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rizal Street, Jimenez 7204 Misamis OccidentalNo. of Offices: 1",
+  "contact": "(088) 272-3217"
+ },
+ {
+  "bank_name": "Rural Bank of Jose Panganiban (Camarines Norte), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Roy Padilla Blvd., South Poblacion, Jose Panganiban, Camarines NorteNo. of Offices: 4",
+  "contact": "(054) 731-1046, 731-0108,731-1138,731-1494Fax: (054) 721-3978,721-2092"
+ },
+ {
+  "bank_name": "Rural Bank of Kapalong (Davao), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "54 Manuel L. Quezon St., Maniki, Kapalong, Davao del NorteNo. of Offices: 1",
+  "contact": "(0917) 305-2693; (0999) 990-4631"
+ },
+ {
+  "bank_name": "Rural Bank of Kiamba (Sarangani), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "St. Anthony Corner Sampaguita St., Poblacion, Kiamba, SaranganiNo. of Offices: 4",
+  "contact": "(083) 893-4029; 893-4030"
+ },
+ {
+  "bank_name": "Rural Bank of Kibawe (Bukidnon), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Sayre Highway, West Kibawe, Kibawe,  8720 BukidnonNo. of Offices: 1",
+  "contact": "0935-44810900947-3626127"
+ },
+ {
+  "bank_name": "Rural Bank of La Paz, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Corner J. Catalan St. & Burgos St., San Isidro, La Paz, TarlacNo. of Offices: 1",
+  "contact": "(045) 493-1988; 606-0330Fax: (045) 982-3258"
+ },
+ {
+  "bank_name": "Rural Bank of Labason (Zamboanga Del Norte), Incorporated",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rizal Avenue, Antonino, Labason, 7117 Zamboanga del NorteNo. of Offices: 5",
+  "contact": "0917-7241713Fax: (065) 377-2159"
+ },
+ {
+  "bank_name": "Rural Bank of Lanuza (Surigao Del Sur), Incorporated",
+  "type": "Rural & Cooperative Banks",
+  "address": "Urbiztondo corner Arreza St., Magosilom, Cantilan, 8317 Surigao del SurNo. of Offices: 3",
+  "contact": "0908-89453710917-7037711Fax: (086) 212-5286"
+ },
+ {
+  "bank_name": "Rural Bank of Lebak (Sultan Kudarat), Incorporated",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion  I, Lebak, Sultan KudaratNo. of Offices: 10",
+  "contact": "(064) 557-4417Fax: (064) 205-3567"
+ },
+ {
+  "bank_name": "Rural Bank of Leganes (Iloilo), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Quintin Salas St., Poblacion, Leganes, IloiloNo. of Offices: 1",
+  "contact": "(033) 524-8056Fax: (033) 329-7900"
+ },
+ {
+  "bank_name": "Rural Bank of Liloy (Zamboanga Del Norte), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Baybay, Liloy, 7115 Zamboanga del NorteNo. of Offices: 5",
+  "contact": "(0918) 233-8065Fax: (065) 311-1022"
+ },
+ {
+  "bank_name": "Rural Bank of Lipa City (Batangas), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "113 J.P. Rizal St., Lipa City, 4217 BatangasNo. of Offices: 3",
+  "contact": "(043) 756-4201; 756-1635; 312-1933"
+ },
+ {
+  "bank_name": "Rural Bank of Loon (Bohol), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Across Loon Municipal Bldg., National Highway, Cogon Norte, Loon, 6327 BoholNo. of Offices: 1",
+  "contact": "(038) 505-9072Fax: (038) 505-9216"
+ },
+ {
+  "bank_name": "Rural Bank of Lopez Jaena (Misamis Occidental), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Eastern Poblacion, Lopez Jaena, Misamis OccidentalNo. of Offices: 1",
+  "contact": "0918-9185509; (088) 586-0560"
+ },
+ {
+  "bank_name": "Rural Bank of Lucban (Quezon), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "103 Rizal Avenue, Barangay 8, Lucban, 4328 QuezonNo. of Offices: 2",
+  "contact": "(042) 911-1415Fax: (042) 540-4238"
+ },
+ {
+  "bank_name": "Rural Bank of Luisiana (Laguna), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "42 Bonifacio Street, Barangay Zone 2, Luisiana, 4032 LagunaNo. of Offices: 2",
+  "contact": "(049) 555-4050"
+ },
+ {
+  "bank_name": "Rural Bank of Lumban (Laguna), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "National Highway, Brgy. Lewin, Lumban, LagunaNo. of Offices: 3",
+  "contact": "(049) 501-4174; 501-4850Fax: (049) 501-4850"
+ },
+ {
+  "bank_name": "Rural Bank of Maasin (Southern Leyte), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "E. Rafols Street, Tunga-Tunga, Maasin, Southern LeyteNo. of Offices: 3",
+  "contact": "(053) 570-9835; 0917-6759845Fax: (053) 381-2077"
+ },
+ {
+  "bank_name": "Rural Bank of Mabalacat, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "107 Mac-Arthur Highway, Dau, Mabalacat, 2010 PampangaNo. of Offices: 6",
+  "contact": "(045) 308-0171Fax: (045) 624-0122"
+ },
+ {
+  "bank_name": "Rural Bank of Maddela (Quirino), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "E. Mangaoil Building, Poblacion Norte, Maddela, Quirino 3404No. of Offices: 1",
+  "contact": "0917-8809762; 0917-6289766"
+ },
+ {
+  "bank_name": "Rural Bank of Madridejos (Cebu), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Madridejos, 6053 CebuNo. of Offices: 1",
+  "contact": "(032) 439-7028(+63) 9209121567"
+ },
+ {
+  "bank_name": "Rural Bank of Magdalena (Laguna), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "10 E. Jacinto St., Poblacion, Magdalena, LagunaNo. of Offices: 8",
+  "contact": "(049) 503-0704Fax: (049) 503-7001"
+ },
+ {
+  "bank_name": "Rural Bank of Makato (Aklan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Mayor Paterio Tirol St., Poblacion, Makato, AklanNo. of Offices: 1",
+  "contact": "(036) 276-3258"
+ },
+ {
+  "bank_name": "Rural Bank of Malitbog (Southern Leyte), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Malitbog, 6603 Southern LeyteNo. of Offices: 1",
+  "contact": "(053) 589-3884; 589-0501"
+ },
+ {
+  "bank_name": "Rural Bank of Malolos, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Pariancillo St., Sto. Niño, City of Malolos, Bulacan 3000No. of Offices: 2",
+  "contact": "(044) 791-0479(044) 812-2249"
+ },
+ {
+  "bank_name": "Rural Bank of Mambusao, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Bonifacio Street, Brgy. Poblacion Proper, Mambusao, 5807 CapizNo. of Offices: 1",
+  "contact": "(036) 647-0179Fax: (036) 647-0179"
+ },
+ {
+  "bank_name": "Rural Bank of Manapla (Neg. Occ.), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rural Bank of Manapla, Inc. Building, B. Gallo St., Brgy. 1-A, Manapla, Negros OccidentalNo. of Offices: 1",
+  "contact": "(034) 491-0030"
+ },
+ {
+  "bank_name": "Rural Bank of Mangaldan, Inc. (Bangko Rural Ng Mangaldan, Ink.)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Mangaldan, PangasinanNo. of Offices: 5",
+  "contact": "(075) 523-7913; 529-1841Fax: (075) 653-1144"
+ },
+ {
+  "bank_name": "Rural Bank of Manolo Fortich, Bukidnon, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Sayre Highway, Manolo Fortich, 8703 BukidnonNo. of Offices: 3",
+  "contact": "0917-7048264"
+ },
+ {
+  "bank_name": "Rural Bank of Manukan (Zamboanga Del Norte), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Manukan, Zamboanga del NorteNo. of Offices: 1",
+  "contact": "0908-8126573; 0946-33433570"
+ },
+ {
+  "bank_name": "Rural Bank of Maria Aurora (Aurora), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Silvestre St., Barangay 01, Maria Aurora, AuroraNo. of Offices: 4",
+  "contact": "(042) 209-4206Fax: (042) 209-4615"
+ },
+ {
+  "bank_name": "Rural Bank of Marilag (Sta. Maria, Laguna), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "106 Real Velasquez St., Barangay IV, Sta. Maria, Laguna 4022No. of Offices: 1",
+  "contact": "(049) 501-0438; 0928-6105834Fax: (049) 269-2040"
+ },
+ {
+  "bank_name": "Rural Bank of Matag-ob (Leyte), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "McArthur St., Matag-ob, 6532 LeyteNo. of Offices: 1",
+  "contact": "(053) 554-2080"
+ },
+ {
+  "bank_name": "Rural Bank of Mati, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Mati, Davao Oriental 8200No. of Offices: 2",
+  "contact": "(087) 388-3352Fax: (087) 388-3352"
+ },
+ {
+  "bank_name": "Rural Bank of Mauban, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Quezon St., Mauban, 4330 QuezonNo. of Offices: 2",
+  "contact": "(042) 784-0203; 911-1250Fax: (042) 784-0203"
+ },
+ {
+  "bank_name": "Rural Bank of Medina (Misamis Oriental), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Medina, Misamis OrientalNo. of Offices: 6",
+  "contact": "(088) 331-2011; (088) 272-4305; (0917) 822-5020; (0917) 822-5039Fax: (088) 331-2360"
+ },
+ {
+  "bank_name": "Rural Bank of Miagao (Iloilo), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Noble St., Miagao, IloiloNo. of Offices: 2",
+  "contact": "(033) 315-8005Fax: (033) 513-7716"
+ },
+ {
+  "bank_name": "Rural Bank of Midsayap, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Quezon Ave., Midsayap, North CotabatoNo. of Offices: 2",
+  "contact": "(064) 229-8009Fax: (064) 521-0792"
+ },
+ {
+  "bank_name": "Rural Bank of Montalban, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "J.P. Rizal Ave., Manggahan Rodriguez, Montalban, RizalNo. of Offices: 4",
+  "contact": "(02) 997-1172Fax: (02) 997-1172"
+ },
+ {
+  "bank_name": "Rural Bank of Naic, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "No. 16 Nazareno St., Bgy. Nazareno, Naic, CaviteNo. of Offices: 3",
+  "contact": "(046) 412-0436; 507-0241Fax: (046) 507-0325"
+ },
+ {
+  "bank_name": "Rural Bank of New Washington (Aklan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Magsaysay Ave., Poblacion, New Washington, 5610 AklanNo. of Offices: 1",
+  "contact": "(036) 264-3358Fax: (036) 264-3355"
+ },
+ {
+  "bank_name": "Rural Bank of Norala (S. Cotabato), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Stall #351, Phase B, Public Market, Manuel Roxas Ave. Cor. Jose Burgos St., Poblacion, Norala, South CotabatoNo. of Offices: 1",
+  "contact": "(083) 234-1107Fax: (083) 234-1107"
+ },
+ {
+  "bank_name": "Rural Bank of Padre Garcia, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "A. Mabini St., Poblacion, Padre Garcia, BatangasNo. of Offices: 2",
+  "contact": "(043) 515-9228; (043) 784-415509175039228; 09989760317"
+ },
+ {
+  "bank_name": "Rural Bank of Paete, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rizal cor. Quesada St., Paete, LagunaNo. of Offices: 3",
+  "contact": "(049) 557-1510; 536-3532Fax: (049) 557-0006"
+ },
+ {
+  "bank_name": "Rural Bank of Pagadian, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Ballesteros Bldg. Gov. V. Cerilles St., Barangay San Francisco, Pagadian, Zamboanga del SurNo. of Offices: 1",
+  "contact": "(062) 214-1797; 0905-3782502; 092208504358Fax: (062) 214-1797"
+ },
+ {
+  "bank_name": "Rural Bank of Pamplona (Negros Oriental), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Pamplona, Negros Oriental 6205No. of Offices: 2",
+  "contact": "(035) 400-3048; 536-0062Fax: (035) 527-0894"
+ },
+ {
+  "bank_name": "Rural Bank of Paracale (Camarines Norte), Incorporated",
+  "type": "Rural & Cooperative Banks",
+  "address": "San Antonio St., Poblacion Norte, Paracale, Camarines Norte 4605No. of Offices: 5",
+  "contact": "(054) 449-1006; 585-2026Fax: (054) 447-6069"
+ },
+ {
+  "bank_name": "Rural Bank of Pilar (Bataan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "National Road, Poblacion, Pilar, 2101 BataanNo. of Offices: 6",
+  "contact": "(047) 237-2560Fax: (047) 935-0269"
+ },
+ {
+  "bank_name": "Rural Bank of Pilar (Sorsogon), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "RB Pilar Bldg., Milleza St., Brgy. Dao, Poblacion, Pilar, Sorsogon 4714No. of Offices: 7",
+  "contact": "(056) 421-9618; 421-9612Fax: (052) 484-1054"
+ },
+ {
+  "bank_name": "Rural Bank of Pinamalayan, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Malvar St., Zone II, Pinamalayan, 5208 Oriental MindoroNo. of Offices: 6",
+  "contact": "(043) 284-3571; 284-4401Fax: (043) 284-3571"
+ },
+ {
+  "bank_name": "Rural Bank of Placer (Surigao del Norte), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Km. 1, National Highway, Surigao City, 8400 Surigao Del NorteNo. of Offices: 6",
+  "contact": "(086) 826-4100; (086) 826-4135Fax: (086) 826-5517"
+ },
+ {
+  "bank_name": "Rural Bank of Pola (Oriental Mindoro), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Batuhan, Pola, 5206 Oriental MindoroNo. of Offices: 12",
+  "contact": "(0920) 699-0751(0918) 659-5329"
+ },
+ {
+  "bank_name": "Rural Bank of Porac (Pampanga), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Priser Building, Sto. Rosario Street Corner Flora Avenue, Barangay Sto. Rosario, Angeles City, PampangaNo. of Offices: 13",
+  "contact": "(045) 624-6177Fax: (045) 329-2505"
+ },
+ {
+  "bank_name": "Rural Bank of Puerto Galera (Oriental Mindoro), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion Puerto Galera, Oriental Mindoro 5203No. of Offices: 1",
+  "contact": "(043) 442-0095; 287-3141Fax: (043) 442-0095"
+ },
+ {
+  "bank_name": "Rural Bank of Pura (Tarlac), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Mabini Street, Barangay Poblacion 3, Pura, TarlacNo. of Offices: 1",
+  "contact": "(045) 606-9976Fax: (045) 606-9976"
+ },
+ {
+  "bank_name": "Rural Bank of Quezon (N. E.), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "T. Joson Ave., Dulong Bayan, Quezon, Nueva Ecija 3113No. of Offices: 1",
+  "contact": "0998-9503963"
+ },
+ {
+  "bank_name": "Rural Bank of Ramon (Isabela), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "121 National Road, Bugallon Proper, Ramon, 3319 IsabelaNo. of Offices: 2",
+  "contact": "(078) 323-0437Fax: (078) 323-0079"
+ },
+ {
+  "bank_name": "Rural Bank of Rizal (Kalinga-Apayao), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rizal, KalingaNo. of Offices: 1",
+  "contact": 9175814676
+ },
+ {
+  "bank_name": "Rural Bank of Rizal (Laguna), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rizal Avenue, Brgy. West Poblacion, Rizal, Laguna 4003No. of Offices: 2",
+  "contact": "(049) 576-3080Fax: (049) 563-1020"
+ },
+ {
+  "bank_name": "Rural Bank of Rizal (Zamboanga Del Norte), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "RBR Tower, Rizal Avenue Cor. Gonzales St., Dipolog City, Zamboanga del NorteNo. of Offices: 15",
+  "contact": "(065) 212-2016 to 17Fax: (065) 212-2098"
+ },
+ {
+  "bank_name": "Rural Bank of Rosario (La Union), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion East, Rosario, La UnionNo. of Offices: 7",
+  "contact": "(072) 687-0032; 0917-8484815Fax: (072) 687-0032"
+ },
+ {
+  "bank_name": "Rural Bank of Roxas (Oriental Mindoro), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Corner Magsaysay St. and Administration St., Barangay Bagumbayan, 5212 Roxas, Oriental MindoroNo. of Offices: 1",
+  "contact": "(043) 289-2002; 289-2973"
+ },
+ {
+  "bank_name": "Rural Bank of Sagada (Mountain Province), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion Sagada, Mountain ProvinceNo. of Offices: 2",
+  "contact": "0977-8514315; 0920-9521358; 0742-750259"
+ },
+ {
+  "bank_name": "Rural Bank of Sagay, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "National Highway, Poblacion II, Sagay City, Negros OccidentalNo. of Offices: 1",
+  "contact": "(034) 488-0131; 488-0083Fax: (034) 488-0083"
+ },
+ {
+  "bank_name": "Rural Bank of Salug (Zamboanga Del Norte), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Salug, Zamboanga del NorteNo. of Offices: 1",
+  "contact": "0917-5215062; 0947-1392435; 0917-1340305"
+ },
+ {
+  "bank_name": "Rural Bank of Sampaloc (Quezon), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Quezon Avenue Corner Tumagay St., Sampaloc, QuezonNo. of Offices: 1",
+  "contact": "(0916) 490-9282; (6342) 716-0208; (6342) 555-8257; (0921) 265-5410; (0920) 258 9960Fax: (6342) 555-8257"
+ },
+ {
+  "bank_name": "Rural Bank of San Antonio, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "J. P. Rizal Street, Barangay 6, Lipa City, BatangasNo. of Offices: 6",
+  "contact": "(043) 756-1911"
+ },
+ {
+  "bank_name": "Rural Bank of San Jacinto (Masbate), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Bailon St., District 1, San Jacinto, MasbateNo. of Offices: 4",
+  "contact": "(056) 555-2341 \/ (056) 411-1258Fax: (056) 555-2341"
+ },
+ {
+  "bank_name": "Rural Bank of San Jose (Camarines Sur), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Mendoza St., San Antonio, San Jose, Camarines Sur 4423No. of Offices: 5",
+  "contact": "(054) 454-2053Fax: (054) 454-2053"
+ },
+ {
+  "bank_name": "Rural Bank of San Luis (Batangas), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "R. Diokno St., Poblacion, San Luis, Batangas 4210No. of Offices: 7",
+  "contact": "(043) 411-8047Fax: (043) 411-8047"
+ },
+ {
+  "bank_name": "Rural Bank of San Luis (Pampanga), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Barangay Santo Cristo, Guagua, PampangaNo. of Offices: 3",
+  "contact": "(045) 436-0836; 900-1137"
+ },
+ {
+  "bank_name": "Rural Bank of San Manuel (Isabela), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "National Highway, San Manuel, IsabelaNo. of Offices: 1",
+  "contact": "0919-8125086"
+ },
+ {
+  "bank_name": "Rural Bank of San Mateo (Isabela), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, San Mateo, IsabelaNo. of Offices: 5",
+  "contact": "(078) 664-2624; 664-2027; 323-0817Fax: (078) 664-2121; 323-0815"
+ },
+ {
+  "bank_name": "Rural Bank of San Miguel (Iloilo), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "R.V. Sanchez Street, Pobalacion, San Miguel, 5025 IloiloNo. of Offices: 1",
+  "contact": "(033) 331-0669Fax: (033) 331-0669"
+ },
+ {
+  "bank_name": "Rural Bank of San Narciso, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Fontimayor St., Bgy. Libertad, San Narciso, ZambalesNo. of Offices: 2",
+  "contact": "(047) 913-4904; 913-4502Fax: (047) 913-4502"
+ },
+ {
+  "bank_name": "Rural Bank of San Pascual (Obando, Bulacan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "345 M.H. del Pilar cor. Navarette St. Brgy. Arkong Bato,Valenzuela CityNo. of Offices: 5",
+  "contact": "(02) 291-4905Fax: (02) 294-7726"
+ },
+ {
+  "bank_name": "Rural Bank of San Rafael (Bulacan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Cruz na Daan, San Rafael, BulacanNo. of Offices: 3",
+  "contact": "(02) 584-4418; (044) 677-0947; (044) 815-3172Fax: (044) 667-1892; (044) 815-3172"
+ },
+ {
+  "bank_name": "Rural Bank of Sanchez Mira (Cagayan), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Lagasca St. Cor. Marzan St., Centro I, Sanchez Mira, CagayanNo. of Offices: 1",
+  "contact": "(078) 864-7529; 0928-2535103Fax: (078) 822-9389"
+ },
+ {
+  "bank_name": "Rural Bank of Sasmuan (Pampanga), Incorporated",
+  "type": "Rural & Cooperative Banks",
+  "address": "San Nicolas II, Sasmuan, 2004 PampangaNo. of Offices: 3",
+  "contact": "(045) 900-2507; (045) 434-0636Fax: (045) 900-2507"
+ },
+ {
+  "bank_name": "Rural Bank of Seven Lakes (San Pablo City), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "102 M. Paulino St., San Pablo City, 4000 LagunaNo. of Offices: 1",
+  "contact": "(049) 562-0026; 561-2176Fax: (049) 561-2176"
+ },
+ {
+  "bank_name": "Rural Bank of Silay City, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Eusebio Street Corner G. Gamboa Street, Brgy. 3, Silay City, Negros OccidentalNo. of Offices: 3",
+  "contact": "(034) 495-2936Fax: None"
+ },
+ {
+  "bank_name": "Rural Bank of Sipocot (Camarines Sur), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "San Juan Avenue, South Centro, Sipocot, 4408 Camarines SurNo. of Offices: 2",
+  "contact": "(054) 450-6355; 0917-5514571; (054) 881-6498; 0920-9078128"
+ },
+ {
+  "bank_name": "Rural Bank of Socorro (Oriental Mindoro), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Zone II, Socorro, Oriental Mindoro 5207No. of Offices: 3",
+  "contact": "(043) 443-1120; 449-0083Fax: (043) 449-0083"
+ },
+ {
+  "bank_name": "Rural Bank of Solano (Nueva Vizcaya), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Maharlika Highway, Poblacion South,  Solano, 3709 Nueva VizcayaNo. of Offices: 6",
+  "contact": "(078) 326-5509; 326-5172Fax: (078) 326-7947"
+ },
+ {
+  "bank_name": "Rural Bank of Sta. Barbara (Iloilo), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Roosevelt St., Sta. Barbara, IloiloNo. of Offices: 2",
+  "contact": "(033) 523-9321; 523-7976Fax: (033) 523-7976; 523-9321"
+ },
+ {
+  "bank_name": "Rural Bank of Sta. Ignacia, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Romulo Highway, Poblacion East, Sta. Ignacia, Tarlac 2303arlacNo. of Offices: 10",
+  "contact": "(045) 606-3058; 606-3239Fax: (045) 606-3327"
+ },
+ {
+  "bank_name": "Rural Bank of Sta. Maria (Ilocos Sur), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Col. S. Reyes Ave., Pob. Sur, Sta. Maria, Ilocos Sur 2705No. of Offices: 1",
+  "contact": "(077) 732-5507Fax: (077) 732-5507"
+ },
+ {
+  "bank_name": "Rural Bank of Sta. Rosa (Laguna), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "F. Gomez St., Malusak, Sta. Rosa City, 4026 LagunaNo. of Offices: 2",
+  "contact": "(049) 534-1126Fax: (049) 534-1126"
+ },
+ {
+  "bank_name": "Rural Bank of Sta. Rosa De Lima (Paniqui, Tarlac), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "#7 Burgos St., Poblacion Sur, Paniqui, TarlacNo. of Offices: 2",
+  "contact": "(045) 931-0678; 931-1411"
+ },
+ {
+  "bank_name": "Rural Bank of Sudipen (La Union), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Ipet, Sudipen, 2520 La UnionNo. of Offices: 1",
+  "contact": "(072) 607-3186; 09202658763Fax: (077) 748-7189"
+ },
+ {
+  "bank_name": "Rural Bank of Taal, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "F. Agoncillo St., Taal,4208 BatangasNo. of Offices: 1",
+  "contact": "(043) 214-2997; 214-2563Fax: (043) 740-1151"
+ },
+ {
+  "bank_name": "Rural Bank of Talugtug (N. E.), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Talugtug 3118 Nueva EcijaNo. of Offices: 1",
+  "contact": "(044) 806-1382"
+ },
+ {
+  "bank_name": "Rural Bank of Tandag (Surigao Del Sur), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "BRT Bldg., National Highway, Bagong Lungsod, Tandag City, 8300 Surigao del SurNo. of Offices: 2",
+  "contact": "(086)211-5858(086) 211-3026Fax: (086) 214-4257"
+ },
+ {
+  "bank_name": "Rural Bank of Tangub City, (Mis. Occ.) Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "RBTC Bldg., Lorenzo Tan corner 3rd South Streets, Tangub City, Misamis OccidentalNo. of Offices: 4",
+  "contact": "(088) 545-6004"
+ },
+ {
+  "bank_name": "Rural Bank of Tanjay, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "639 Magallanes St., Barangay II, Tanjay, 6204 Negros OrientalNo. of Offices: 4",
+  "contact": "(035) 415-9291; 415-8170Fax: (035) 415-9291"
+ },
+ {
+  "bank_name": "Rural Bank of Tigaon Camarines Sur, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Tigaon, Camarines SurNo. of Offices: 1",
+  "contact": "(054) 452-3039Fax: (054) 452-3039"
+ },
+ {
+  "bank_name": "Rural Bank of Tigbauan (Iloilo), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Tigbauan, IloiloNo. of Offices: 1",
+  "contact": "(033) 333-1337Fax: (033) 511-7743"
+ },
+ {
+  "bank_name": "Rural Bank of Victoria, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rizal St., San Nicolas, Victoria, TarlacNo. of Offices: 1",
+  "contact": "(045) 606-9804; (045) 606-9847"
+ },
+ {
+  "bank_name": "Rural Bank of Villaverde (Nueva Vizcaya), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Villaverde, Nueva VizcayaNo. of Offices: 1",
+  "contact": "0927-3039155"
+ },
+ {
+  "bank_name": "Rural Bank of Zarraga (Iloilo), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Zamora St., Poblacion, Zarraga, IloiloNo. of Offices: 1",
+  "contact": "(033) 333-0461(+63) 909 4424505"
+ },
+ {
+  "bank_name": "Sadiri Rural Bank (San Juan, Ilocos Sur), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Ground Floor BVP Building, Zamora Street, Bannuar, San Juan, Ilocos SurNo. of Offices: 1",
+  "contact": "(077) 728-2886Fax: (077) 728-2109"
+ },
+ {
+  "bank_name": "Salug Valley Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "1st Floor Carisil Bldg., Mabini St., Barangay Maloloy-on, Molave, Zamboanga del SurNo. of Offices: 2",
+  "contact": "(062) 225-1937; 420-5972; 09183275823Fax: (062) 225-1937"
+ },
+ {
+  "bank_name": "San Bartolome Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "San Pedro I, Magalang, PampangaNo. of Offices: 2",
+  "contact": "0922-8564150Fax: (045) 3434-249"
+ },
+ {
+  "bank_name": "Saviour Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Olongapo Highway corner Osmeña Street, Sta. Cruz, Lubao, PampangaNo. of Offices: 5",
+  "contact": "(045) 403-9842Fax: (045) 971-6538"
+ },
+ {
+  "bank_name": "SeaBank Philippines Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "32 Rizal St., Poblacion 2, Pagsanjan, 4008 LagunaNo. of Offices: 5",
+  "contact": "(049) 501-4213\/501-4342"
+ },
+ {
+  "bank_name": "Second Rural Bank of San Luis, Pampanga, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion, Sto. Tomas, San Luis, PampangaNo. of Offices: 1",
+  "contact": "(045) 436-0925"
+ },
+ {
+  "bank_name": "Second Rural Bank of Valenzuela (Metro Manila), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "45 M.H. del Pilar Road, Poblacion 1, Valenzuela CityNo. of Offices: 1",
+  "contact": "(02) 292-2142Fax: (02) 293-4826"
+ },
+ {
+  "bank_name": "Secured Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Capt. Vicente Roa St., Cogon, Cagayan de Oro CityNo. of Offices: 6",
+  "contact": "(08822) 726-205; 726825; (088) 857-2985"
+ },
+ {
+  "bank_name": "SG Bank - A Rural bank Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "167 Real Street, Brgy. Poblacion 7, Dumaguete City 6200, Negros OrientalNo. of Offices: 1",
+  "contact": "(035) 225-4304; (035) 422-6192; (035) 421-2387"
+ },
+ {
+  "bank_name": "Silahis Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "452 Mc. Arthur Highway, Balagtas, 3016 BulacanNo. of Offices: 1",
+  "contact": "(044) 693-1520(+63) 917-671-0406Fax: (044) 693-1195"
+ },
+ {
+  "bank_name": "South Bank (A Rural Bank), Incorporated",
+  "type": "Rural & Cooperative Banks",
+  "address": "Rodelsa Hall, R.N. Pelaez Blvd., Kauswagan, Cagayan de Oro CityNo. of Offices: 7",
+  "contact": "(08822) 727-533; (088) 858-4832; (088) 857-3005Fax: (08822) 727-533"
+ },
+ {
+  "bank_name": "Southeast Country Bank, Inc. ( A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "04 Sto. Domingo, Camaligan, Camarines SurNo. of Offices: 4",
+  "contact": "(054) 811-7981Fax: (054) 474-8627"
+ },
+ {
+  "bank_name": "St. Michael Rural Bank of Tarlac (Tarlac), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "G\/F Herminia Bldg., Espinosa St. cor. Rizal St., Block 2, Sto. Cristo, Tarlac City, TarlacNo. of Offices: 4",
+  "contact": "(045) 982-6465Fax: (045) 982-6466"
+ },
+ {
+  "bank_name": "Sta. Maria Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Bagbaguin, Sta. Maria, BulacanNo. of Offices: 5",
+  "contact": "(044) 288-2018; 0917-8407723"
+ },
+ {
+  "bank_name": "Summit Bank (Rural Bank of Tublay, Inc.)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Head Office Address - Acop, Tublay, Benguet; (Mailing Address -  Diego Silang Branch, No. 35 Lian Ting Bldg. Diego Silang St., 2600 Baguio City)No. of Offices: 31",
+  "contact": "(074) 424-4051; (074) 304-2288Fax: Fax: (074) 444-8929"
+ },
+ {
+  "bank_name": "Summit Rural Bank of Lipa City, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "50 B Morada Ave., Lipa City, 4217 BatangasNo. of Offices: 2",
+  "contact": "(043) 981-4727Fax: (043) 757-2513"
+ },
+ {
+  "bank_name": "Sunrise Rural Bank (Rosario, Batangas), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Y. Zuño St., Rosario, BatangasNo. of Offices: 1",
+  "contact": "(043) 321-3001Fax: (043) 321-3050"
+ },
+ {
+  "bank_name": "Talisay Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Mabini-Bonifacio  Sts., Brgy. Zone 4A, Talisay City, 6115 Negros OccidentalNo. of Offices: 1",
+  "contact": "(034) 495-4518Fax: (034) 495-3116"
+ },
+ {
+  "bank_name": "Tamaraw Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "M.H. Del Pilar cor. Magsaysay Sts., San Jose, Occidental MindoroNo. of Offices: 2",
+  "contact": "(043) 491-1790; 09209202996Fax: (043) 491-1677"
+ },
+ {
+  "bank_name": "The Country Bank Rural Bank of Bongabong Or. Mindoro, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Poblacion Bongabong, Oriental MindoroNo. of Offices: 5",
+  "contact": "(043) 448-0091;(043) 283-5118Fax: (043) 283-5080"
+ },
+ {
+  "bank_name": "Towncall Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "G\/F Towncall, Maharlika Highway, Dicarma, Cabanatuan CityNo. of Offices: 5",
+  "contact": "(044) 463-8580 to 82Fax: (044) 463-8581"
+ },
+ {
+  "bank_name": "TRBank Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "31st floor unit 3101-3108 Raffles Corporate Center, F. Ortigas Jr. Road, Ortigas Center, Pasig CityNo. of Offices: 20",
+  "contact": "(02) 8654-1069(02) 8654-4446(02) 8654-4448(02) 8693-0387Fax: (02) 8693-0387(02) 8654-1069(02) 8706-5855"
+ },
+ {
+  "bank_name": "Turumba Rural Bank of Pakil, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "36 Tavera Street, Pakil, Laguna 4017No. of Offices: 5",
+  "contact": "(049) 557-0721Fax: (049) 557-4309"
+ },
+ {
+  "bank_name": "Unilink Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Km. 39 Nat'l. H-way, Balibago, Sta. Rosa, LagunaNo. of Offices: 1",
+  "contact": "(049) 534-1074(+63) 905 281 2754Fax: (049) 837-8093"
+ },
+ {
+  "bank_name": "Universal Rural Bank of Lopez (Quezon), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Gen. G.V. Vera cor. San Francisco Streets, Talolong, Lopez, 4316 QuezonNo. of Offices: 3",
+  "contact": "(042) 797-1602"
+ },
+ {
+  "bank_name": "Upland Rural Bank of Dalaguete (Cebu), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Legaspi St., Poblacion, Dalaguete, 6022 CebuNo. of Offices: 2",
+  "contact": "(032) 484-8283; (032) 412-2535Fax: (032) 484-8283"
+ },
+ {
+  "bank_name": "Utility Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "30 J. P. Rizal St, Poblacion I, Bauan, 4201 BatangasNo. of Offices: 2",
+  "contact": "(043) 403-4995; 786-1541"
+ },
+ {
+  "bank_name": "Vigan Banco Rural, Incorporada",
+  "type": "Rural & Cooperative Banks",
+  "address": "115 Salcedo St., Vigan, Ilocos Sur 2700No. of Offices: 1",
+  "contact": "(077) 632-0326; (0917) 568-0167Fax: (077) 674-0351"
+ },
+ {
+  "bank_name": "Village Bank, Inc. (A Rural Bank)",
+  "type": "Rural & Cooperative Banks",
+  "address": "Zamora St., Centro I, Orani, Bataan 2112No. of Offices: 3",
+  "contact": "(047) 431-1236Fax: (047) 431-1199"
+ },
+ {
+  "bank_name": "Vizcaya Bank, A Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Gen. Luna St., Poblacion South, Solano, Nueva VizcayaNo. of Offices: 1",
+  "contact": "(078) 392-9746(+63) 9171642341 (+63) 9494160970"
+ },
+ {
+  "bank_name": "Welcome Bank (Rural Bank), Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "Units 1701-1703, The Taipan Place Building, F. Ortigas, Jr. Road, corner Ortigas Center, Brgy. San Antonio, Pasig CityNo. of Offices: 8",
+  "contact": "(02) 842-4074Fax: (02) 842-4079"
+ },
+ {
+  "bank_name": "Zambales Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "No. 6, 20th St., East Bajac-Bajac, Olongapo City, 2200 ZambalesNo. of Offices: 12",
+  "contact": "(047) 223-4964Fax: (047) 222-2678"
+ },
+ {
+  "bank_name": "Zamboanga City Rural Bank, Inc.",
+  "type": "Rural & Cooperative Banks",
+  "address": "NZUEI Bldg. La Purisima St. Corner Tomas Claudio St., Zamboanga CityNo. of Offices: 1",
+  "contact": "(062) 991-2588; 991-4182Fax: (062) 991-2588"
+ },
+ {
+  "bank_name": "Zamboanga Del Norte Cooperative Bank",
+  "type": "Rural & Cooperative Banks",
+  "address": "Quezon Avenue, Barangay Miputak, Dipolog City, Zamboanga del NorteNo. of Offices: 4",
+  "contact": "(065) 212-7806\/212-6210Fax: (065) 212-6211"
+ }
+]
